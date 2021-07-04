@@ -1,20 +1,29 @@
 <template>
   <div>
-    <Nuxt />
+    <div
+      v-if="$nuxt.isOffline"
+      class="
+        text-center
+        tracking-wider
+        text-red-500
+        font-semibold
+        p-2
+        bg-red-200
+      "
+    >
+      Your internet is OFF or very POOR at the moment. Try to reconnect.
+    </div>
+    <Header class="sticky top-0 z-50" />
+    <transition name="slide-fade" mode="out-in" appear>
+      <Nuxt />
+    </transition>
   </div>
 </template>
 
 <style>
 html {
-  font-family:
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
+  font-family: "Handlee", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -31,32 +40,22 @@ html {
   margin: 0;
 }
 
-.button--green {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
+.sacramento {
+  font-family: "Sacramento";
 }
 
-.button--green:hover {
-  color: #fff;
-  background-color: #3b8070;
+.slide-fade-enter {
+  transform: translateY(100px);
+  opacity: 0;
 }
 
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
+.slide-fade-enter-active,
+.slide-fade-leave-active {
+  transition: all 0.6s ease;
 }
 
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
+.slide-fade-leave-to {
+  transform: translateY(-100px);
+  opacity: 0;
 }
 </style>
