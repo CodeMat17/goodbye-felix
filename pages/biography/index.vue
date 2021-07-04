@@ -52,11 +52,13 @@
                 :src="generations"
                 alt="generations in photo"
                 class="
+                mx-auto
                   rounded-md
                   transform
                   transition
                   duration-500
                   hover:scale-110
+                  md:hover:scale-125
                 "
               />
             </div>
