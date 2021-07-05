@@ -186,7 +186,7 @@
             </div>
             <h2 class="font-bold text-lg pt-4">First Reading:</h2>
             <p>
-              Areading from the Book of Wisdom (3:1- 9). Brethren the soul of
+              A reading from the Book of Wisdom (3:1- 9). Brethren the soul of
               the virtuous are in the hands of God, no torment shall ever touch
               them. In the eyes of unwise, they did appear to die, their going
               looked like disaster, their leaving us like annihilation but they
@@ -889,7 +889,9 @@
 
 <script>
 export default {
-  scrollToTop: true,
+   mounted () {
+  window.scrollTo(0, 0)
+},
   data() {
     return {
       goodbye: "goodbye",

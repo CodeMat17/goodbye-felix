@@ -64,7 +64,9 @@
 
 <script>
 export default {
-  scrollToTop: true,
+   mounted () {
+  window.scrollTo(0, 0)
+},
   data() {
     return {
       photos: {},

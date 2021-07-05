@@ -52,7 +52,7 @@
                 :src="generations"
                 alt="generations in photo"
                 class="
-                mx-auto
+                  mx-auto
                   rounded-md
                   transform
                   transition
@@ -137,7 +137,7 @@
                   tracking-wider
                 "
               >
-                In recognition of his efforts, belowA letter of appreciation
+                In recognition of his efforts, below is a Letter of Appreciation
                 presented to Felix Chukwu in 2007 by a former Parish Priest
                 (Rev. Fr. Christian Iroha) of St. Patrick's Catholic Parish
                 Nomeh.
@@ -146,6 +146,7 @@
                 :src="iroha"
                 alt="fr Iroha's letter"
                 class="
+                  mx-auto
                   rounded
                   transform
                   transition
@@ -159,13 +160,13 @@
             <h1 class="font-bold tracking-wider">FAMILY / SOCIAL LIFE</h1>
             <p class="tracking-wider">
               Felix was a lover of his family. He grew up with his siblings, and
-              being the first male child of his father, he carried everyone along with great care and
-              concern. He was very sociable, noble and trustworthy. He always
-              look for his people both from his Father and mother lineage no
-              matter how far the family tree had grown. He always stood and
-              defend his siblings and always on the side of peace. Someone once
-              told me, your father does not allow another person’s bird to peck
-              his own.
+              being the first male child of his father, he carried everyone
+              along with great care and concern. He was very sociable, noble and
+              trustworthy. He always look for his people both from his Father
+              and mother lineage no matter how far the family tree had grown. He
+              always stood and defend his siblings and always on the side of
+              peace. Someone once told me, your father does not allow another
+              person’s bird to peck his own.
             </p>
             <p class="mt-3">He was a counselor and man of peace.</p>
             <p class="mt-3">
@@ -179,18 +180,18 @@
             <p class="tracking-wider">
               Felix Chukwu’s death was dramatic and glorious. On the day he
               departed to meet with his creator, he woke up at 5 am as usual for
-              morning prayers joined by his wife, my Mother. From singing praises to saying the
-              Rosary he showed no sign of
-              discomfort. After the prayers, he came outside and sat at his
-              usual position and started discussing with others. A few minutes
-              later, his breathing frequency increased. My mother
-              asked, what is happening?, as a man that does not like showing
-              pains or being pitied replied, nothing was happening. Noticing how he was
+              morning prayers joined by his wife, my Mother. From singing
+              praises to saying the Rosary he showed no sign of discomfort.
+              After the prayers, he came outside and sat at his usual position
+              and started discussing with others. A few minutes later, his
+              breathing frequency increased. My mother asked, what is
+              happening?, as a man that does not like showing pains or being
+              pitied replied, nothing was happening. Noticing how he was
               breathing; his Nephew and my Mother took him into his room and
               placed him on the bed. And that was it, he departed.
             </p>
             <p class="mt-3 italic">
-              “As it is, however, there still remains for God’s people rest like
+              “As it is, however, there still remains for God’s people a rest like
               God’s resting on the seventh day. For those who receive that rest
               which God promised will rest from their own work, just as God
               rested from his.” – Hebrews 4: 9 & 10.
@@ -212,7 +213,9 @@
 
 <script>
 export default {
-  scrollToTop: true,
+ mounted () {
+  window.scrollTo(0, 0)
+},
   asyncData({ $cloudinary }) {
     const iroha = $cloudinary.image.url("goodbye/iroha", {
       quality: "auto",

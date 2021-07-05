@@ -14,7 +14,7 @@
         APPRECIATION
       </h1>
       <img :src="salute" alt="dad salute img" class="mt-6 mx-auto" />
-     
+
       <br />
       <div
         class="
@@ -35,9 +35,8 @@
         <br />
         <p>
           We also appreciate the care, the physical and spiritual support of the
-          Spiritual Director of the Felix Chukwu's family, Rev. Fr.
-          Orjiene. May God replenish your strength as a human and in the
-          priesthood.
+          Spiritual Director of the Felix Chukwu's family, Rev. Fr. Orjiene. May
+          God replenish your strength as a human and in the priesthood.
         </p>
         <br />
         <p>
@@ -58,14 +57,12 @@
         </p>
         <br />
         <p>
-          As you have come here to condole with us and pay your last respect to our Daddy,
-          when you are set to go back, may God Almighty take you to your respective
-          destinations safely.
+          As you have come here to condole with us and pay your last respect to
+          our Daddy, when you are set to go back, may God Almighty take you to
+          your respective destinations safely.
         </p>
-        <br>
-        <p>
-          Thank you and God bless you all.
-        </p>
+        <br />
+        <p>Thank you and God bless you all.</p>
         <br /><br />
         <p>Engr. Chukwu A. Matthew</p>
         <p class="text-gray-500">For the family</p>
@@ -76,7 +73,9 @@
 
 <script>
 export default {
-  scrollToTop: true,
+  mounted() {
+    window.scrollTo(0, 0);
+  },
   asyncData({ $cloudinary }) {
     const salute = $cloudinary.image.url("goodbye/salute", {
       quality: "auto",

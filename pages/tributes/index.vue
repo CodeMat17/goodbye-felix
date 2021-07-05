@@ -1521,7 +1521,9 @@
 
 <script>
 export default {
-  scrollToTop: true,
+  mounted () {
+  window.scrollTo(0, 0)
+},
   asyncData({ $cloudinary }) {
     const oge = $cloudinary.image.url("goodbye/oge", {
       quality: "auto",
