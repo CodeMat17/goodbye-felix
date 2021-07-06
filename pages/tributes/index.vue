@@ -166,7 +166,7 @@
               I thank God and thank you for whatever I am today. You had this
               strong passion for Education and you sponsored those around you
               who were ready to go to school. Right from my Primary School days,
-              you taught me a way to read and it sticks, bought advanced books
+              you taught me a way to read and it will stick, bought advanced books
               to prepare me ahead, and arranged for after-school lessons for me.
               I will miss you Dad.
             </p>
@@ -175,7 +175,7 @@
               achieve your goals with minimal or zero errors. You taught me the
               true definition of humility, credibility, trustworthiness, and
               being God-fearing. Even 3 weeks before your demise when I came
-              home, you still spoke with me about respecting elders and my
+              home, you still spoke with me about respecting my elders and my
               seniors at my place of work. I will miss you Dad.
             </p>
             <p>
@@ -1347,9 +1347,9 @@
         </div>
         <!-- divider end -->
         <img
-          :src="minlaw"
+          :src="ezigbo"
           alt="oge's condolence"
-          class="rounded-md transform transition duration-500 hover:scale-125"
+          class="mx-auto rounded-md transform transition duration-500 hover:scale-125"
         />
         <!-- divider start -->
         <div
@@ -1416,9 +1416,9 @@
         </div>
         <!-- divider end -->
         <img
-          :src="ezigbo"
+          :src="minlaw"
           alt="oge's condolence"
-          class="rounded-md transform transition duration-500 hover:scale-125"
+          class="mx-auto rounded-md transform transition duration-500 hover:scale-125"
         />
         <!-- divider start -->
         <div
@@ -1487,7 +1487,7 @@
         <img
           :src="oge"
           alt="oge's condolence"
-          class="rounded-md transform transition duration-500 hover:scale-125"
+          class="mx-auto rounded-md transform transition duration-500 hover:scale-125"
         />
         <!-- divider start -->
         <div
@@ -1639,7 +1639,7 @@
         <img
           :src="ugonna"
           alt="ugonna's condolence"
-          class="rounded-md transform transition duration-500 hover:scale-125"
+          class="mx-auto rounded-md transform transition duration-500 hover:scale-125"
         />
         <!-- divider start -->
         <div
@@ -1708,7 +1708,7 @@
         <img
           :src="stAnns"
           alt="st_ann's condolence"
-          class="rounded-md transform transition duration-500 hover:scale-125"
+          class="mx-auto rounded-md transform transition duration-500 hover:scale-125"
         />
         <!-- divider start -->
         <div
@@ -1785,7 +1785,7 @@ export default {
     window.scrollTo(0, 0);
   },
   asyncData({ $cloudinary }) {
-    const minlaw = $cloudinary.image.url("goodbye/minlaw", {
+    const minlaw = $cloudinary.image.url("goodbye/m_inlaw", {
       quality: "auto",
     });
     const ezigbo = $cloudinary.image.url("goodbye/ezigbo", {
