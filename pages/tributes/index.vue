@@ -38,8 +38,21 @@
               On the day you left us, you led the early morning prayers, where
               we sang praises to God, and you completed the rosary. There was no
               sign whatsoever that you will begin another journey. I leave
-              everything to God. I will continue to cherish the moment we had
-              together as husband and wife and the children God blessed us with.
+              everything to God.
+            </p>
+            <p>
+              You are no longer with us in flesh, but your emulated good works,
+              human empathy, words of wisdom and admonitions will ever remain
+              with us untill we meet to part no more.
+            </p>
+            <p>
+              I will continue to cherish the moment we had together as husband
+              and wife and the children God blessed us with.
+            </p>
+            <p>
+              Have a restful and ever shinning moment with Christ Jesus and our
+              Mother Mary through her intercession for Divine Mercy over your
+              soul.
             </p>
             <p>Go in peace, my husband, and rest in heaven.</p>
           </div>
@@ -1108,6 +1121,115 @@
           <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
+        <div>
+          <h3 class="font-bold tracking-wider sm:text-xl">
+            TRIBUTE FROM THE CATHOLIC MEN ORGANISATION.
+          </h3>
+          <div class="space-y-4 py-4">
+            <p class="tracking-wider">
+              A tribute to a caring father and a patron of the Catholic Men
+              Organization, C.M.O, St. Patrick's Parish, Nomeh Unateze, Chief
+              Felix Chukwu (Late).
+            </p>
+            <p>
+              The news of your transition to glory came as a shock to those who
+              have come across you. Death! you have given away our member,
+              father, grandfather, patron, our adviser. Papa, you were like a
+              morning star to your family members.
+            </p>
+            <p>
+              You offered wise counsel in the Church during meetings, especially
+              in the C.M.O. You served as the chairman of C.M.O. St Patrick's
+              Parish, Nomeh, from 2014 - 2018 and made valuable contributions to
+              the entire C.M.O. During your tenure, you built the Parish toilet.
+            </p>
+            <p>
+              After you became our Patron, till your death, we enjoyed your
+              lifestyle. We also believe that the world is a stage where
+              everyone plays his part and you played yours well in our own
+              understanding. We hope you are in the company of our Lord Jesus
+              Christ.
+            </p>
+          </div>
+          <p class="tracking-wider">Adieu Papa</p>
+          <p class="tracking-wider">Adieu Patron</p>
+          <p class="tracking-wider">Adieu Soldier</p>
+          <p class="tracking-wider">May your soul rest in peace.</p>
+          <p class="tracking-wider text-center font-bold mt-6">
+            C.M.O. St. Patrick's Parish Nomeh.
+          </p>
+        </div>
+        <!-- divider start -->
+        <div
+          class="
+            flex
+            items-center
+            justify-center
+            py-8
+            space-x-4
+            text-yellow-500
+          "
+        >
+          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
+          <svg class="w-4 h-4" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <svg class="w-6 h-6" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <span class="flex items-center justify-center w-6 h-6">
+            <span
+              class="
+                animate-ping
+                absolute
+                inline-flex
+                h-8
+                w-8
+                rounded-full
+                bg-yellow-500
+                opacity-75
+              "
+            ></span>
+            <span
+              class="
+                relative
+                flex
+                items-center
+                justify-center
+                rounded-full
+                h-12
+                w-12
+              "
+            >
+              <svg class="w-8 h-8" viewBox="0 0 24 24">
+                <path
+                  fill="currentColor"
+                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+                />
+              </svg>
+            </span>
+          </span>
+          <svg class="w-6 h-6" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <svg class="w-4 h-4" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
+        </div>
+        <!-- divider end -->
       </div>
       <h1
         class="
@@ -1160,6 +1282,75 @@
           </p>
           <p class="tracking-wider text-center">(Akara- Aka Isingwu,Umuahia)</p>
         </div>
+        <!-- divider start -->
+        <div
+          class="flex items-center justify-center py-8 space-x-4 text-red-500"
+        >
+          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
+          <svg class="w-4 h-4" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <svg class="w-6 h-6" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <span class="flex items-center justify-center w-6 h-6">
+            <span
+              class="
+                animate-ping
+                absolute
+                inline-flex
+                h-8
+                w-8
+                rounded-full
+                bg-red-500
+                opacity-75
+              "
+            ></span>
+            <span
+              class="
+                relative
+                flex
+                items-center
+                justify-center
+                rounded-full
+                h-12
+                w-12
+              "
+            >
+              <svg class="w-8 h-8" viewBox="0 0 24 24">
+                <path
+                  fill="currentColor"
+                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+                />
+              </svg>
+            </span>
+          </span>
+          <svg class="w-6 h-6" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <svg class="w-4 h-4" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
+        </div>
+        <!-- divider end -->
+        <img
+          :src="ezigbo"
+          alt="oge's condolence"
+          class="rounded-md transform transition duration-500 hover:scale-125"
+        />
         <!-- divider start -->
         <div
           class="flex items-center justify-center py-8 space-x-4 text-red-500"
@@ -1521,10 +1712,13 @@
 
 <script>
 export default {
-  mounted () {
-  window.scrollTo(0, 0)
-},
+  mounted() {
+    window.scrollTo(0, 0);
+  },
   asyncData({ $cloudinary }) {
+    const ezigbo = $cloudinary.image.url("goodbye/ezigbo", {
+      quality: "auto",
+    });
     const oge = $cloudinary.image.url("goodbye/oge", {
       quality: "auto",
     });
@@ -1534,7 +1728,7 @@ export default {
     const stAnns = $cloudinary.image.url("goodbye/st_Anns", {
       quality: "auto",
     });
-    return { oge, ugonna, stAnns };
+    return { ezigbo, oge, ugonna, stAnns };
   },
 };
 </script>

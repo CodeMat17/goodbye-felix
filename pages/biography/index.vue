@@ -45,8 +45,8 @@
                   tracking-wider
                 "
               >
-                3 generations in a photo. Late Felix Chukwu with his brothers
-                and sisters, parents and step mothers, nephews and nieces.
+                3 generations in a photo. Felix Chukwu with his parents, 2 step
+                mothers, siblings, nephews and nieces.
               </p>
               <img
                 :src="generations"
@@ -191,9 +191,9 @@
               placed him on the bed. And that was it, he departed.
             </p>
             <p class="mt-3 italic">
-              “As it is, however, there still remains for God’s people a rest like
-              God’s resting on the seventh day. For those who receive that rest
-              which God promised will rest from their own work, just as God
+              “As it is, however, there still remains for God’s people a rest
+              like God’s resting on the seventh day. For those who receive that
+              rest which God promised will rest from their own work, just as God
               rested from his.” – Hebrews 4: 9 & 10.
             </p>
           </div>
@@ -213,9 +213,9 @@
 
 <script>
 export default {
- mounted () {
-  window.scrollTo(0, 0)
-},
+  mounted() {
+    window.scrollTo(0, 0);
+  },
   asyncData({ $cloudinary }) {
     const iroha = $cloudinary.image.url("goodbye/iroha", {
       quality: "auto",
