@@ -166,9 +166,9 @@
               I thank God and thank you for whatever I am today. You had this
               strong passion for Education and you sponsored those around you
               who were ready to go to school. Right from my Primary School days,
-              you taught me a way to read and it will stick, bought advanced books
-              to prepare me ahead, and arranged for after-school lessons for me.
-              I will miss you Dad.
+              you taught me a way to read and it will stick, bought advanced
+              books to prepare me ahead, and arranged for after-school lessons
+              for me. I will miss you Dad.
             </p>
             <p>
               You were principled to the core. In all you did, you tried to
@@ -1349,8 +1349,108 @@
         <img
           :src="ezigbo"
           alt="oge's condolence"
-          class="mx-auto rounded-md transform transition duration-500 hover:scale-125"
+          class="
+            mx-auto
+            rounded-md
+            transform
+            transition
+            duration-500
+            hover:scale-125
+          "
         />
+        <!-- divider start -->
+        <div
+          class="flex items-center justify-center py-8 space-x-4 text-red-500"
+        >
+          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
+          <svg class="w-4 h-4" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <svg class="w-6 h-6" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <span class="flex items-center justify-center w-6 h-6">
+            <span
+              class="
+                animate-ping
+                absolute
+                inline-flex
+                h-8
+                w-8
+                rounded-full
+                bg-red-500
+                opacity-75
+              "
+            ></span>
+            <span
+              class="
+                relative
+                flex
+                items-center
+                justify-center
+                rounded-full
+                h-12
+                w-12
+              "
+            >
+              <svg class="w-8 h-8" viewBox="0 0 24 24">
+                <path
+                  fill="currentColor"
+                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+                />
+              </svg>
+            </span>
+          </span>
+          <svg class="w-6 h-6" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <svg class="w-4 h-4" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
+        </div>
+        <!-- divider end -->
+        <div>
+          <h3 class="py-6 font-semibold tracking-wider">
+            CONDOLENCE MESSAGE TO MY SON IN-LAW
+          </h3>
+          <div class="space-y-4">
+            <p class="tracking-wider">
+              I received the news of your father’s demise with shock. It is
+              still painful and difficult to accept that he is gone, though we
+              are left without a choice. Your father was a man of peace, kind
+              and warm-hearted in all his ways. He was so courageous and always
+              expecting the best. His positive outlook instilled discipline and
+              devotion in many that were around him.
+            </p>
+            <p>
+              Caring and resourceful father like no other, we love him just as
+              he loved us. His memories will remain indelible in our hearts.
+            </p>
+            <p>
+              For it is, when one’s assignments are completed, it becomes
+              expedient for him/her to respectfully answer that divine call.
+              This is what happened.
+            </p>
+          </div>
+          <p class="tracking-wider mt-4">Goodnight great man</p>
+          <p class="tracking-wider">Bye my in-law</p>
+          <p class="tracking-wider text-center font-bold mt-6">
+            OLEH MARY OGECHUKWU
+          </p>
+        </div>
         <!-- divider start -->
         <div
           class="flex items-center justify-center py-8 space-x-4 text-red-500"
@@ -1418,7 +1518,14 @@
         <img
           :src="minlaw"
           alt="oge's condolence"
-          class="mx-auto rounded-md transform transition duration-500 hover:scale-125"
+          class="
+            mx-auto
+            rounded-md
+            transform
+            transition
+            duration-500
+            hover:scale-125
+          "
         />
         <!-- divider start -->
         <div
@@ -1487,7 +1594,14 @@
         <img
           :src="oge"
           alt="oge's condolence"
-          class="mx-auto rounded-md transform transition duration-500 hover:scale-125"
+          class="
+            mx-auto
+            rounded-md
+            transform
+            transition
+            duration-500
+            hover:scale-125
+          "
         />
         <!-- divider start -->
         <div
@@ -1639,7 +1753,14 @@
         <img
           :src="ugonna"
           alt="ugonna's condolence"
-          class="mx-auto rounded-md transform transition duration-500 hover:scale-125"
+          class="
+            mx-auto
+            rounded-md
+            transform
+            transition
+            duration-500
+            hover:scale-125
+          "
         />
         <!-- divider start -->
         <div
@@ -1708,7 +1829,14 @@
         <img
           :src="stAnns"
           alt="st_ann's condolence"
-          class="mx-auto rounded-md transform transition duration-500 hover:scale-125"
+          class="
+            mx-auto
+            rounded-md
+            transform
+            transition
+            duration-500
+            hover:scale-125
+          "
         />
         <!-- divider start -->
         <div
