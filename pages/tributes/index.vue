@@ -25,6 +25,7 @@
         TRIBUTES
       </h1>
       <div class="text-lg sm:text-xl">
+        <!-- Mom's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
             TRIBUTE TO MY DEAR HUSBAND.
@@ -41,17 +42,17 @@
               everything to God.
             </p>
             <p>
-              You are no longer with us in flesh, but your emulated good works,
-              human empathy, words of wisdom and admonitions will ever remain
-              with us untill we meet to part no more.
+              You are no longer with us in flesh, but your good works, human
+              empathy, words of wisdom and admonitions will ever remain with us
+              untill we meet to part no more.
             </p>
             <p>
-              I will continue to cherish the moment we had together as husband
-              and wife and the children God blessed us with.
+              I will continue to cherish the moments we shared together as
+              husband and wife and the children God blessed us with.
             </p>
             <p>
-              Have a restful and ever shinning moment with Christ Jesus and our
-              Mother Mary through her intercession for Divine Mercy over your
+              Have a restful and ever shinning moment with Christ Jesus, and our
+              Mother Mary, through her intercession for Divine Mercy over your
               soul.
             </p>
             <p>Go in peace, my husband, and rest in heaven.</p>
@@ -132,6 +133,7 @@
           <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
+        <!-- Matthew's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
             TRIBUTE TO ODOGWU M.
@@ -156,11 +158,11 @@
               only consolation about this is the fact that, 2 hours before your
               second gong call, you sang praises to God in the usual family
               morning prayers, where you even led the rosary yourself. That
-              gives me an inclination of where you are right now.
+              gives me an insight of where you are right now.
             </p>
             <p>
-              Daddy, I will miss your early morning phone calls to check on me
-              and 'Nwa m' as you always refer to my wife.
+              Daddy, I will miss your early morning phone calls to checkup on me
+              and "Nwa m" as you always refer to my wife.
             </p>
             <p>
               I thank God and thank you for whatever I am today. You had this
@@ -184,12 +186,12 @@
               your way in defending your relatives. I will miss you Dad.
             </p>
             <p>
-              I can go on and on but, words are not enough; words will never be
-              enough to describe you and what you stood for in black and white.
-              We will keep praying for the repose of your soul and also ask God
-              to give us the fortitude to bear the vacuum your demise has
-              created and to be able to hold forth the true love you propagated
-              amongst your relations, both far and near.
+              I can go on and on, but words are not enough; words will never be
+              enough to describe you and what you stood for. We will keep
+              praying for the repose of your soul and also ask God to give us
+              the fortitude to bear the vacuum your demise has created and to be
+              able to hold forth the true love you propagated amongst your
+              relations, both far and near.
             </p>
           </div>
           <p>Adieu Man m!</p>
@@ -272,36 +274,38 @@
           <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
+        <!-- Nnenna's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
             TRIBUTE TO MY LOVELY FATHER.
           </h3>
           <div class="space-y-4 py-4">
             <p class="tracking-wider">
-              A great hero has fallen. God Almighty called you to glory on a
-              morning after the usual family morning devotion.
+              A great hero has fallen. God Almighty called you to glory after
+              the usual family morning devotion.
             </p>
             <p>
-              Daddy the time you were sick, anytime I check on you, you always
-              gave me words of faith, you would say, mummy, don't worry, my
-              faith is strong, nothing will happen to me and it is just a matter
-              of time, I will fine, till that faithful day that God called you.
+              Daddy the time you were sick, each time I checkup on you, you
+              always gave me words of faith, you would say, "mummy, don't worry,
+              my faith is strong, nothing will happen to me. It is just a matter
+              of time, I will be fine". Untill that faithful day that God called
+              you.
             </p>
             <p>
               Death is inevitable, we shall all leave this world someday but the
               circumstances of death remain unknown to everyone.
             </p>
             <p>
-              I accepted it as the will of God though my heart was heavy and my
-              eyes coated with tears. You left us the time we needed you the
-              most. You never stopped instructing us to be committed to God and
-              prayerful at all times.
+              I accepted it as the will of God though my heart is heavy and my
+              eyes coated with tears. You left us at the time we needed you the
+              most.
             </p>
             <p>
               I cannot question God, who am I? God knows the best. In all
               conditions, we still give HIM praise. My lovely dad, I really miss
-              you, I miss your early morning calls, I miss your advice. My
-              prayer is, May God grant you eternal rest.
+              you, I miss your early morning calls, I miss your advice. You
+              never stopped instructing us to be committed to God and prayerful
+              at all times. My prayer is, God should grant you eternal rest.
             </p>
           </div>
           <p class="tracking-wider">Goodbye my lovely Dad</p>
@@ -310,7 +314,7 @@
           <p class="tracking-wider">Adieu my Father</p>
           <p class="tracking-wider">Goodnight, till we meet to part no more.</p>
           <p class="tracking-wider text-center mt-6">
-            Your beloved daughter (Mummy)
+            Your beloved daughter (Mommy)
           </p>
           <p class="tracking-wider text-center font-bold">
             Martha Nnnenna Chukwuemeka.
@@ -387,6 +391,7 @@
           <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
+        <!-- Uchanta's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
             TRIBUTE TO MY FATHER-IN-LAW.
@@ -529,6 +534,7 @@
           <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
+        <!-- Chiadi's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
             TRIBUTE TO MY FATHER INLAW.
@@ -545,10 +551,10 @@
             </p>
             <p>
               Oh death, why now that we need him the most, but if it is the will
-              of God, may his name be praise.
+              of God, may his name be praised.
             </p>
             <p>
-              As we morn now, I pray to God Almighty to grant you eternal rest
+              As we mourn now, I pray to God Almighty to grant you eternal rest
               in his bosom.
             </p>
           </div>
@@ -631,6 +637,7 @@
           <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
+        <!-- Ikechukwu's tribute -->
         <div>
           <h3 class="mt-4 font-bold tracking-wider sm:text-xl">
             TRIBUTE TO MY BELOVED UNCLE.
@@ -1265,7 +1272,7 @@
             <p>
               From every consideration, your father was known to most of the
               leading members of Agbi nta, my biological father‘s extended
-              family many of who witnessed the marriage ceremony between you and
+              family many of whom witnessed the marriage ceremony between you and
               my daughter Ucha.
             </p>
             <p>
