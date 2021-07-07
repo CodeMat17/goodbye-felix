@@ -31,9 +31,9 @@
               Late Felix Chukwu was born in Nomeh into the family of Late Elder
               Egbo Nwachifu (Nwachifuogo) of Imeama Nomeh and Late Uzo Nwaeze
               (Ochieka-nambo), of Obuegu Ugbawka, both of Nkanu East LGA of
-              Enugu State. Felix was the 4th of 9 children of the polygamous
-              family and the first male child of his father but the 2nd male
-              from his mother.
+              Enugu State. Felix was the 4th of 9 children from the polygamous
+              family and the first male child of his father but the 2nd from his
+              mother.
             </p>
             <div class="mt-6 max-w-2xl mx-auto">
               <p
@@ -46,7 +46,7 @@
                 "
               >
                 3 generations in a photo. Felix Chukwu with his parents, 2 step
-                mothers, siblings, nephews and nieces.
+                mothers, siblings, nephews and nieces - 1965.
               </p>
               <img
                 :src="generations"
@@ -73,11 +73,11 @@
             </p>
             <p class="mt-3">
               He was popular and loved by his fellow pupils and teachers due to
-              his intelligence and active participation in sports. As a child
-              then, you wouldn't push him around or cheat him and when you
-              delibrately give him trouble, be sure to receive a DOUBLE dose,
-              and that was how the word DOUBLE, by the villagers, metamorphosed
-              to BUNDLE, hence his nickname, Feli-Bundle.
+              his intelligence and active participation in sports. As a child,
+              you wouldn't push him around or cheat him and when you delibrately
+              give him trouble, be sure to receive a DOUBLE dose, and that was
+              how the word DOUBLE, by the villagers, metamorphosed to BUNDLE,
+              hence his nickname, Feli-Bundle.
             </p>
           </div>
           <div class="mt-4">
@@ -86,9 +86,9 @@
               Felix Chukwu joined the Nigerian Army in 1963. When the Nigerian
               Civil War started, he came back to defend his people. After the
               war ended in January 1970, he was recalled back to the Nigerian
-              Army. He got several recognitions and commendations on neatiness,
-              etc. He was very good in sporting activities that he represented
-              his unit in FESTAC ’77.
+              Army. He got several recognitions and commendations for his
+              neatness, etc. He was very good in sporting activities that he
+              represented his unit in FESTAC ’77.
             </p>
             <p class="mt-3">
               As a military engineer, in May 1984, he was sent to the Nigerian
@@ -105,17 +105,16 @@
               roles as a leader in a short material of this nature. Right from
               his primary school days to his unit in the Nigerian Army
               Engineers, he displayed his leadership prowess. While in Calabar
-              and Kaduna, he also held positions in the Church and both in the
-              Enugu State and the Nkanu People associations.
+              and Kaduna, he also held positions in the Church, Enugu State and
+              the Nkanu People associations.
             </p>
             <p class="mt-3 tracking-wider">
-              Returning home, he became the Chairman of the Catholic Men
-              Organization, CMO, Nomeh, for more than one tenure. He has also
-              been the Chairman of St. Anthony Zone in the Church, also for more
-              than a tenure, Chairman Umuonuohaeze, Chairman Umuada-Ugbawka,
-              Financial Secretary Ukegeorge, etc. All through the period, he
-              always led with sincerity of purpose and compassion - he is known
-              for paying dues for those who do not come prepared to meetings.
+              Returning home, he later became the Chairman of the Catholic Men
+              Organization, CMO, and St. Anthony's Zone of the St. Patrick's
+              Parish, Nomeh (both for more than a tenure). Felix was one time
+              Chairman Umuonuohaeze, Chairman Umuada-Ugbawka, Financial
+              Secretary Ukegeorge, etc. All through his leadership period, he
+              led with sincerity of purpose and compassion.
             </p>
           </div>
           <div class="mt-4">
@@ -125,7 +124,8 @@
               commitments in the church earned him the various positions and
               nominations that made him head the various positions he held in
               the Church. He had also represented the Parish at different levels
-              on various occasions.
+              on various occasions. He was also known for paying dues for those
+              who do not come prepared to meetings.
             </p>
             <div class="mt-6 max-w-2xl mx-auto">
               <p
@@ -161,18 +161,19 @@
             <p class="tracking-wider">
               Felix was a lover of his family. He grew up with his siblings, and
               being the first male child of his father, he carried everyone
-              along with great care and concern. He was very sociable, noble and
-              trustworthy. He always look for his people both from his Father
-              and mother lineage no matter how far the family tree had grown. He
-              always stood and defend his siblings and always on the side of
-              peace. Someone once told me, your father does not allow another
-              person’s bird to peck his own.
+              along with great care and concern. He was very sociable and
+              trustworthy. He always kept in contact with his people both from
+              his Father and mother's lineage no matter how far the family tree
+              runs. He never fails to defend his siblings. Someone once told me,
+              <span class="italic"
+                >"your father does not allow another person’s bird to peck his
+                own".</span
+              >
             </p>
             <p class="mt-3">He was a counselor and man of peace.</p>
             <p class="mt-3">
-              His marriage to Chinyere Bridget Chukwu was blessed with two
-              children who are now graduates of Engineering and Cooperative
-              Economics.
+              His marriage to Chinyere Bridget Chukwu is blessed with two
+              children (an Engineer and a Cooperative Economist.)
             </p>
           </div>
           <div class="mt-4">
@@ -181,14 +182,16 @@
               Felix Chukwu’s death was dramatic and glorious. On the day he
               departed to meet with his creator, he woke up at 5 am as usual for
               morning prayers joined by his wife, my Mother. From singing
-              praises to saying the Rosary he showed no sign of discomfort.
+              praises to saying the Rosary, he showed no sign of discomfort.
               After the prayers, he came outside and sat at his usual position
               and started discussing with others. A few minutes later, his
-              breathing frequency increased. My mother asked, what is
-              happening?, as a man that does not like showing pains or being
-              pitied replied, nothing was happening. Noticing how he was
-              breathing; his Nephew and my Mother took him into his room and
-              placed him on the bed. And that was it, he departed.
+              breathing frequency increased. My mother asked, what is happening?
+              As a man that does not like to show pain or being pitied, he
+              replied,
+              <span class="italic">"nothing is happening".</span> After some
+              minutes, it became obvious that all was not well which prompted
+              his Nephew and my Mother took him into his room and placed. And
+              that was it, he departed.
             </p>
             <p class="mt-3 italic">
               “As it is, however, there still remains for God’s people a rest

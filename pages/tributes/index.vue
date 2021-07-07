@@ -1273,7 +1273,7 @@
               deserves eternal rest in heaven humanity’s resting place.
             </p>
           </div>
-          <p class="tracking-wider">Jenu Nnadi Nwam!</p>
+          <p class="tracking-wider mt-4">Jenu Nnadi Nwam!</p>
           <p class="tracking-wider">Laa nu oke nwoke!</p>
           <p class="tracking-wider">We will meet some day to part no more.</p>
           <p class="tracking-wider">Bye for now enyim nwoke!</p>
@@ -1355,7 +1355,7 @@
             transform
             transition
             duration-500
-            hover:scale-125
+            hover:scale-110
           "
         />
         <!-- divider start -->
@@ -1524,7 +1524,7 @@
             transform
             transition
             duration-500
-            hover:scale-125
+            hover:scale-110
           "
         />
         <!-- divider start -->
@@ -1600,7 +1600,7 @@
             transform
             transition
             duration-500
-            hover:scale-125
+            hover:scale-110
           "
         />
         <!-- divider start -->
@@ -1759,7 +1759,7 @@
             transform
             transition
             duration-500
-            hover:scale-125
+            hover:scale-110
           "
         />
         <!-- divider start -->
@@ -1835,7 +1835,7 @@
             transform
             transition
             duration-500
-            hover:scale-125
+            hover:scale-110
           "
         />
         <!-- divider start -->
