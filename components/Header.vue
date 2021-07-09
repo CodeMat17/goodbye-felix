@@ -3,11 +3,10 @@
     <div class="px-4">
       <div class="flex items-center justify-between">
         <div class="py-2 flex items-center space-x-2 text-sm">
-         
           <img
             src="@/assets/svgs/bible.svg"
             alt=""
-            class="w-10 h-10 bg-white  rounded-full"
+            class="w-10 h-10 bg-white rounded-full"
           />
           <h1 class="text-gray-300 text-xl tracking-widest font-semibold">
             Adieu! Daddy
@@ -37,7 +36,6 @@
               d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"
             />
           </svg>
-
         </div>
         <div class="md:hidden">
           <button
@@ -94,7 +92,12 @@
             class="tracking-wider md:text-lg hover:text-gray-200"
             >APPRECIATION</n-link
           >
-          <a href="https://matthewchukwu.netlify.app/" target="_blank" class="tracking-wider md:text-lg hover:text-gray-200">CONTACT</a>
+          <a
+            href="https://matthewchukwu.netlify.app/"
+            target="_blank"
+            class="tracking-wider md:text-lg hover:text-gray-200"
+            >CONTACT</a
+          >
         </div>
       </div>
       <transition name="slide-menu" appear mode="out-in">
@@ -102,7 +105,7 @@
           v-show="menuOpen"
           class="
             py-4
-            rounded-lg
+            
             text-lg
             tracking-widest
             text-yellow-500
@@ -110,6 +113,11 @@
             justify-end
             space-y-4
             md:hidden
+            absolute
+            z-50
+            inset-x-0
+            bg-gray-800
+            w-full
           "
         >
           <button
@@ -125,7 +133,7 @@
           >
             REQUIEM
           </button>
-           <button
+          <button
             @click="biographyButt"
             class="
               py-2
@@ -177,7 +185,10 @@
           >
             APPRECIATION
           </button>
-          <a href="https://matthewchukwu.netlify.app" target="_blank" class="
+          <a
+            href="https://matthewchukwu.netlify.app"
+            target="_blank"
+            class="
               py-2
               rounded-md
               tracking-widest
@@ -185,7 +196,9 @@
               focus:outline-none
               focus:bg-gray-200
               text-center
-            ">CONTACT US</a>
+            "
+            >CONTACT US</a
+          >
         </div>
       </transition>
     </div>
@@ -204,7 +217,7 @@ export default {
       this.$router.push("/");
       this.menuOpen = false;
     },
-     biographyButt() {
+    biographyButt() {
       this.$router.push("/biography");
       this.menuOpen = false;
     },

@@ -1272,8 +1272,8 @@
             <p>
               From every consideration, your father was known to most of the
               leading members of Agbi nta, my biological father‘s extended
-              family many of whom witnessed the marriage ceremony between you and
-              my daughter Ucha.
+              family many of whom witnessed the marriage ceremony between you
+              and my daughter Ucha.
             </p>
             <p>
               It is my view that your father was a good Christian and therefore
@@ -1598,6 +1598,7 @@
           <div class="bg-red-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
+        <!-- Oge's condolence msg -->
         <img
           :src="oge"
           alt="oge's condolence"
@@ -1674,11 +1675,12 @@
           <div class="bg-red-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
+        <!-- Dr Ebere's condolence msg -->
         <div>
           <h3 class="tracking-wider font-semibold">EXIT OF A HERO</h3>
           <div class="space-y-4 mt-4">
             <p class="tracking-wider">
-              We wish to express our heartfelt condolence to Mr. Mathew & Mrs.
+              We wish to express our heartfelt condolence to Mr. Matthew & Mrs.
               Uchanta Chukwu and the entire Chukwu family on the demise of their
               father, brother, uncle and son, Mr. Felix Chukwu. Daddy was an
               icon and a hero who as an army veteran dedicated his life to
