@@ -1165,7 +1165,7 @@
               will miss you, Uncle Felix.
             </p>
             <p>
-              Uncle, you were a credible and nobleman. You served your country
+              Uncle, you were credible and a nobleman. You served your country
               as a Soldier, community, and family. Everyone got the guidance
               needed from you. I am very grateful for knowing and having you as
               an Uncle, I will miss you dearly.
