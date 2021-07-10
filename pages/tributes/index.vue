@@ -1130,7 +1130,7 @@
           <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
-         <!-- Chukwuma's tribute -->
+        <!-- Chukwuma's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
             TRIBUTE TO A HERO.
@@ -1172,8 +1172,106 @@
             </p>
           </div>
           <p class="tracking-wider">Rest on my Uncle.</p>
+          <p class="tracking-wider text-center font-bold mt-6">Anih Chukwuma</p>
+        </div>
+        <!-- divider start -->
+        <div
+          class="
+            flex
+            items-center
+            justify-center
+            py-8
+            space-x-4
+            text-yellow-500
+          "
+        >
+          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
+          <svg class="w-4 h-4" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <svg class="w-6 h-6" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <span class="flex items-center justify-center w-6 h-6">
+            <span
+              class="
+                animate-ping
+                absolute
+                inline-flex
+                h-8
+                w-8
+                rounded-full
+                bg-yellow-500
+                opacity-75
+              "
+            ></span>
+            <span
+              class="
+                relative
+                flex
+                items-center
+                justify-center
+                rounded-full
+                h-12
+                w-12
+              "
+            >
+              <svg class="w-8 h-8" viewBox="0 0 24 24">
+                <path
+                  fill="currentColor"
+                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+                />
+              </svg>
+            </span>
+          </span>
+          <svg class="w-6 h-6" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <svg class="w-4 h-4" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
+        </div>
+        <!-- divider end -->
+        <!-- Nwakaego's tribute -->
+        <div>
+          <h3 class="font-bold tracking-wider sm:text-xl">
+            TRIBUTE TO MY DEAR UNCLE.
+          </h3>
+          <div class="space-y-4 py-4">
+            <p class="tracking-wider">
+              With sadness but with total submission to the will of God that I
+              write this tribute. It is still like a dream but it is real. Papa
+              chijioke as I usually call you, you left us, but your good ways of
+              life, your love, and care for your family will always remain alive
+              with us. You were a very good example of a father and an uncle who
+              always cares for his families.
+            </p>
+            <p class="tracking-wider">
+              Your relationship with God is another good point you made while
+              alive. Papa chijioke! We will miss you.
+            </p>
+            <p class="tracking-wider">
+              My consolation lies on this premise that you are resting in the
+              bosom of the lord until we meet to part no more.
+            </p>
+          </div>
+          <p class="tracking-wider">Adieu my soldier.</p>
+          <p class="tracking-wider">Farewell my uncle.</p>
           <p class="tracking-wider text-center font-bold mt-6">
-            Anih Chukwuma
+            Christiana Orji (Nwakaego)
           </p>
         </div>
         <!-- divider start -->
@@ -1357,7 +1455,6 @@
           <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
-       
       </div>
       <h1
         class="
@@ -1474,9 +1571,87 @@
           <div class="bg-red-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
+        <!-- Ezigbo's condolence msg -->
         <img
           :src="ezigbo"
-          alt="oge's condolence"
+          alt="Ezigbo's condolence"
+          class="
+            mx-auto
+            rounded-md
+            transform
+            transition
+            duration-500
+            hover:scale-110
+          "
+        />
+        <!-- divider start -->
+        <div
+          class="flex items-center justify-center py-8 space-x-4 text-red-500"
+        >
+          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
+          <svg class="w-4 h-4" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <svg class="w-6 h-6" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <span class="flex items-center justify-center w-6 h-6">
+            <span
+              class="
+                animate-ping
+                absolute
+                inline-flex
+                h-8
+                w-8
+                rounded-full
+                bg-red-500
+                opacity-75
+              "
+            ></span>
+            <span
+              class="
+                relative
+                flex
+                items-center
+                justify-center
+                rounded-full
+                h-12
+                w-12
+              "
+            >
+              <svg class="w-8 h-8" viewBox="0 0 24 24">
+                <path
+                  fill="currentColor"
+                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+                />
+              </svg>
+            </span>
+          </span>
+          <svg class="w-6 h-6" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <svg class="w-4 h-4" viewBox="0 0 24 24">
+            <path
+              fill="currentColor"
+              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
+            />
+          </svg>
+          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
+        </div>
+        <!-- divider end -->
+        <!-- NFVCB Calabar condolence msg -->
+        <img
+          :src="calabar"
+          alt="calabar condolence"
           class="
             mx-auto
             rounded-md
@@ -2049,6 +2224,9 @@ export default {
     const ezigbo = $cloudinary.image.url("goodbye/ezigbo", {
       quality: "auto",
     });
+     const calabar = $cloudinary.image.url("goodbye/nfvcb_cal", {
+      quality: "auto",
+    });
     const oge = $cloudinary.image.url("goodbye/oge", {
       quality: "auto",
     });
@@ -2058,7 +2236,7 @@ export default {
     const stAnns = $cloudinary.image.url("goodbye/st_Anns", {
       quality: "auto",
     });
-    return { minlaw, ezigbo, oge, ugonna, stAnns };
+    return { minlaw, ezigbo, calabar, oge, ugonna, stAnns };
   },
 };
 </script>
