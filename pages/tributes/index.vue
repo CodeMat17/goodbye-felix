@@ -33,12 +33,12 @@
           <div class="space-y-4 py-4">
             <p class="tracking-wider">
               I have waited to hear that your absence was a staged drama, but my
-              hopes have grown thin. You left when you had recovered.
+              hopes have grown thin. You left when you had almost recovered.
             </p>
             <p>
               On the day you left us, you led the early morning prayers, where
               we sang praises to God, and you completed the rosary. There was no
-              sign whatsoever that you will begin another journey. I leave
+              sign whatsoever that you will begin this other journey. I leave
               everything to God.
             </p>
             <p>
