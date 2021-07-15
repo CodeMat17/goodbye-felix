@@ -1472,6 +1472,7 @@
         CONDOLENCES
       </h1>
       <div class="text-lg sm:text-xl">
+        <!-- Chief Oleh's condolence msg -->
         <div>
           <h3 class="tracking-wider">Mr Matthew Anthony Chukwu,</h3>
           <h3 class="tracking-wider">Nomeh Unateze Village,</h3>
@@ -1648,10 +1649,10 @@
           <div class="bg-red-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
-        <!-- NFVCB Calabar condolence msg -->
+         <!-- NFVCB Abuja condolence msg -->
         <img
-          :src="calabar"
-          alt="calabar condolence"
+          :src="nfvcb"
+          alt="nfvcb condolence"
           class="
             mx-auto
             rounded-md
@@ -1725,6 +1726,7 @@
           <div class="bg-red-500 w-2 h-2 rounded-full"></div>
         </div>
         <!-- divider end -->
+        <!-- Mrs Ole's condolence msg -->
         <div>
           <h3 class="py-6 font-semibold tracking-wider">
             CONDOLENCE MESSAGE TO MY SON IN-LAW
@@ -2224,7 +2226,7 @@ export default {
     const ezigbo = $cloudinary.image.url("goodbye/ezigbo", {
       quality: "auto",
     });
-     const calabar = $cloudinary.image.url("goodbye/nfvcb_cal", {
+    const nfvcb = $cloudinary.image.url("goodbye/nfvcbCond", {
       quality: "auto",
     });
     const oge = $cloudinary.image.url("goodbye/oge", {
@@ -2236,7 +2238,7 @@ export default {
     const stAnns = $cloudinary.image.url("goodbye/st_Anns", {
       quality: "auto",
     });
-    return { minlaw, ezigbo, calabar, oge, ugonna, stAnns };
+    return { minlaw, ezigbo, nfvcb, oge, ugonna, stAnns };
   },
 };
 </script>
