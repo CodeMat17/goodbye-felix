@@ -173,8 +173,8 @@
                 own".</span
               >
             </p>
-            <p class="mt-3">He was a counselor and man of peace.</p>
-            <p class="mt-3">
+            <p class="mt-3 tracking-wider">He was a counselor and man of peace.</p>
+            <p class="mt-3 tracking-wider">
               His marriage to Chinyere Bridget Chukwu is blessed with two
               children (an Engineer and a Cooperative Economist.)
             </p>
