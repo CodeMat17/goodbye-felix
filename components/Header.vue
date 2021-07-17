@@ -14,7 +14,7 @@
           <svg
             @click="toggle"
             xmlns="http://www.w3.org/2000/svg"
-            class="h-8 w-8 cursor-pointer"
+            class="h-8 w-8 cursor-pointer animate-pulse"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
@@ -44,7 +44,7 @@
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              class="h-8 w-8"
+              class="h-8 w-8 animate-pulse"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"
