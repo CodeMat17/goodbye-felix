@@ -37,7 +37,7 @@
             </p>
             <p>
               On the day you left us, you led the early morning prayers, where
-              we sang praises to God, and you completed the rosary. There was no
+              we sang praises to God, and you completed the Rosary. There was no
               sign whatsoever that you will begin this other journey. I leave
               everything to God.
             </p>
@@ -62,77 +62,7 @@
           <p class="tracking-wider text-center mt-6">Your Wife</p>
           <p class="tracking-wider text-center font-bold">Chukwu C. Bridget.</p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Matthew's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -169,26 +99,26 @@
               strong passion for Education and you sponsored those around you
               who were ready to go to school. Right from my Primary School days,
               you taught me a way to read and it will stick, bought advanced
-              books to prepare me ahead, and arranged for after-school lessons
-              for me. I will miss you Dad.
+              books to prepare me ahead, and arranged for after-school and
+              holiday lessons for me. I will miss you Dad.
             </p>
             <p>
               You were principled to the core. In all you did, you tried to
               achieve your goals with minimal or zero errors. You taught me the
               true definition of humility, credibility, trustworthiness, and
               being God-fearing. Even 3 weeks before your demise when I came
-              home, you still spoke with me about respecting my elders and my
-              seniors at my place of work. I will miss you Dad.
+              home to see you and Mom, you still spoke with me about respecting
+              my elders and seniors at my place of work. I will miss you Dad.
             </p>
             <p>
-              Your love for your family, your brothers, and sisters, nephews,
-              etc was never in doubt. You never allowed anything to stand in
-              your way in defending your relatives. I will miss you Dad.
+              Your love for your family, siblings, nephews, nieces etc was never
+              in doubt. You never allowed anything to stand in your way in
+              defending your relatives. I will miss you Dad.
             </p>
             <p>
               I can go on and on, but words are not enough; words will never be
               enough to describe you and what you stood for. We will keep
-              praying for the repose of your soul and also ask God to give us
+              praying for the repose of your soul, for God to give us
               the fortitude to bear the vacuum your demise has created and to be
               able to hold forth the true love you propagated amongst your
               relations, both far and near.
@@ -203,77 +133,7 @@
             Engr. Chukwu A. Matthew.
           </p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Nnenna's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -320,77 +180,7 @@
             Martha Nnnenna Chukwuemeka.
           </p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Uchanta's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -463,77 +253,7 @@
           </p>
           <p class="tracking-wider text-center">Daughter In-law</p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Chiadi's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -566,77 +286,7 @@
             Chiadi Chukwuemeka.
           </p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Ikechukwu's tribute -->
         <div>
           <h3 class="mt-4 font-bold tracking-wider sm:text-xl">
@@ -687,79 +337,7 @@
             For Late Michael Egbo's family.
           </p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <div>
           <h3 class="mt-4 font-bold tracking-wider sm:text-xl">
             TRIBUTE TO MY UNCLE, HERO, MR. FELIX D. CHUKWU.
@@ -838,79 +416,7 @@
           </p>
           <p class="tracking-wider text-center">Okaibe na Uhuafor</p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Mike's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -941,77 +447,7 @@
             Rev. Onovo Michael.
           </p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Emma's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -1059,77 +495,7 @@
             Onovo Emmanuel (Bishop)
           </p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Chukwuma's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -1174,77 +540,7 @@
           <p class="tracking-wider">Rest on my Uncle.</p>
           <p class="tracking-wider text-center font-bold mt-6">Anih Chukwuma</p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Nwakaego's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -1274,77 +570,7 @@
             Christiana Orji (Nwakaego)
           </p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- CMO's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -1384,77 +610,7 @@
             C.M.O. St. Patrick's Parish Nomeh.
           </p>
         </div>
-        <!-- divider start -->
-        <div
-          class="
-            flex
-            items-center
-            justify-center
-            py-8
-            space-x-4
-            text-yellow-500
-          "
-        >
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-yellow-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-yellow-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
       </div>
       <h1
         class="
@@ -1508,70 +664,7 @@
           </p>
           <p class="tracking-wider text-center">(Akara- Aka Isingwu,Umuahia)</p>
         </div>
-        <!-- divider start -->
-        <div
-          class="flex items-center justify-center py-8 space-x-4 text-red-500"
-        >
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-red-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Ezigbo's condolence msg -->
         <img
           :src="ezigbo"
@@ -1585,71 +678,8 @@
             hover:scale-110
           "
         />
-        <!-- divider start -->
-        <div
-          class="flex items-center justify-center py-8 space-x-4 text-red-500"
-        >
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-red-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
-         <!-- NFVCB Abuja condolence msg -->
+        <Divider />
+        <!-- NFVCB Abuja condolence msg -->
         <img
           :src="nfvcb"
           alt="nfvcb condolence"
@@ -1662,70 +692,7 @@
             hover:scale-110
           "
         />
-        <!-- divider start -->
-        <div
-          class="flex items-center justify-center py-8 space-x-4 text-red-500"
-        >
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-red-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Mrs Ole's condolence msg -->
         <div>
           <h3 class="py-6 font-semibold tracking-wider">
@@ -1756,70 +723,7 @@
             OLEH MARY OGECHUKWU
           </p>
         </div>
-        <!-- divider start -->
-        <div
-          class="flex items-center justify-center py-8 space-x-4 text-red-500"
-        >
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-red-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <img
           :src="minlaw"
           alt="oge's condolence"
@@ -1832,70 +736,7 @@
             hover:scale-110
           "
         />
-        <!-- divider start -->
-        <div
-          class="flex items-center justify-center py-8 space-x-4 text-red-500"
-        >
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-red-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Oge's condolence msg -->
         <img
           :src="oge"
@@ -1909,70 +750,7 @@
             hover:scale-110
           "
         />
-        <!-- divider start -->
-        <div
-          class="flex items-center justify-center py-8 space-x-4 text-red-500"
-        >
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-red-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <!-- Dr Ebere's condolence msg -->
         <div>
           <h3 class="tracking-wider font-semibold">EXIT OF A HERO</h3>
@@ -1993,70 +771,7 @@
           </p>
           <p class="tracking-wider text-center">(In-laws)</p>
         </div>
-        <!-- divider start -->
-        <div
-          class="flex items-center justify-center py-8 space-x-4 text-red-500"
-        >
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-red-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <img
           :src="ugonna"
           alt="ugonna's condolence"
@@ -2069,70 +784,7 @@
             hover:scale-110
           "
         />
-        <!-- divider start -->
-        <div
-          class="flex items-center justify-center py-8 space-x-4 text-red-500"
-        >
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-red-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
         <img
           :src="stAnns"
           alt="st_ann's condolence"
@@ -2145,70 +797,7 @@
             hover:scale-110
           "
         />
-        <!-- divider start -->
-        <div
-          class="flex items-center justify-center py-8 space-x-4 text-red-500"
-        >
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <span class="flex items-center justify-center w-6 h-6">
-            <span
-              class="
-                animate-ping
-                absolute
-                inline-flex
-                h-8
-                w-8
-                rounded-full
-                bg-red-500
-                opacity-75
-              "
-            ></span>
-            <span
-              class="
-                relative
-                flex
-                items-center
-                justify-center
-                rounded-full
-                h-12
-                w-12
-              "
-            >
-              <svg class="w-8 h-8" viewBox="0 0 24 24">
-                <path
-                  fill="currentColor"
-                  d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-                />
-              </svg>
-            </span>
-          </span>
-          <svg class="w-6 h-6" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <svg class="w-4 h-4" viewBox="0 0 24 24">
-            <path
-              fill="currentColor"
-              d="M3,13A9,9 0 0,0 12,22A9,9 0 0,0 3,13M12,22A9,9 0 0,0 21,13A9,9 0 0,0 12,22M18,3V8A6,6 0 0,1 12,14A6,6 0 0,1 6,8V3C6.74,3 7.47,3.12 8.16,3.39C8.71,3.62 9.2,3.96 9.61,4.39L12,2L14.39,4.39C14.8,3.96 15.29,3.62 15.84,3.39C16.53,3.12 17.26,3 18,3Z"
-            />
-          </svg>
-          <div class="bg-red-500 w-2 h-2 rounded-full"></div>
-        </div>
-        <!-- divider end -->
+        <Divider />
       </div>
     </div>
   </div>

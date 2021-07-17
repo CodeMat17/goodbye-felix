@@ -28,8 +28,8 @@
           <div>
             <h1 class="font-bold tracking-wider text-lg sm:text-xl">BIRTH</h1>
             <p class="tracking-wider">
-              Late Felix Chukwu was born in Nomeh into the family of Late Elder
-              Egbo Nwachifu (Nwachifuogo) of Imeama Nomeh and Late Uzo Nwaeze
+              Felix Chukwu was born in Nomeh into the family of Late Elder Egbo
+              Nwachifu (Nwachifuogo) of Imeama Nomeh and Late Uzo Nwaeze
               (Ochieka-nambo), of Obuegu Ugbawka, both of Nkanu East LGA of
               Enugu State. Felix was the 4th of 9 children from the polygamous
               family and the first male child of his father but the 2nd from his
@@ -68,14 +68,15 @@
             <p class="tracking-wider">
               According to sketchy records and stories, Felix Chukwu was very
               intelligent during his primary school days, then it was known as
-              Standard. He was also very good in football that it was almost
-              difficult to cross the defense line anytime he plays.
+              Standard. He was also very good in sports. In football, it was
+              always difficult to cross his defense line anytime he plays.
             </p>
             <p class="mt-3">
-              He was popular and loved by his fellow pupils and teachers due to
-              his intelligence and active participation in sports. As a child,
-              you wouldn't push him around or cheat him and when you delibrately
-              give him trouble, be sure to receive a DOUBLE dose, and that was
+              He was very popular and loved by his fellow pupils and teachers
+              due to his intelligence and versatility. As a child, you wouldn't
+              push him around or cheat him. When some of his classmates come in
+              twos to fight him, they will end up being beaten by him. This
+              prompted one of his teachers to nickname him DOUBLE. And that was
               how the word DOUBLE, by the villagers, metamorphosed to BUNDLE,
               hence his nickname, Feli-Bundle.
             </p>
@@ -87,15 +88,16 @@
               Civil War started, he came back to defend his people. After the
               war ended in January 1970, he was recalled back to the Nigerian
               Army. He got several recognitions and commendations for his
-              neatness, etc. He was very good in sporting activities that he
+              neatness, etc. And due to his flame in sporting activities, he
               represented his unit in FESTAC ’77.
             </p>
             <p class="mt-3">
               As a military engineer, in May 1984, he was sent to the Nigerian
               Army School of Military Engineering, Combat Engineering Division –
-              Markudi to further his studies. He last served at the headquarters
-              of the Nigerian Armed Forces Resettlement Center, NAFRC, Oshodi,
-              in 1989 where he later disengaged (from the Army) on own request.
+              Markudi, to further his studies. He last served at the
+              headquarters of the Nigerian Armed Forces Resettlement Center,
+              NAFRC, Oshodi, in 1989 where he later disengaged (from the Army)
+              on own request.
             </p>
           </div>
           <div class="mt-4">
@@ -112,7 +114,7 @@
               Returning home, he later became the Chairman of the Catholic Men
               Organization, CMO, and St. Anthony's Zone of the St. Patrick's
               Parish, Nomeh (both for more than a tenure). Felix was one time
-              Chairman Umuonuohaeze, Chairman Umuada-Ugbawka, Financial
+              Chairman of Umuonuohaeze, Chairman Umuada-Ugbawka, Financial
               Secretary Ukegeorge, etc. All through his leadership period, he
               led with sincerity of purpose and compassion.
             </p>
@@ -164,7 +166,8 @@
               along with great care and concern. He was very sociable and
               trustworthy. He always kept in contact with his people both from
               his Father and mother's lineage no matter how far the family tree
-              runs. He never fails to defend his siblings. Someone once told me,
+              runs. He never fails at any point to stand and / or defend his
+              siblings. Someone once told me,
               <span class="italic"
                 >"your father does not allow another person’s bird to peck his
                 own".</span
@@ -181,16 +184,16 @@
             <p class="tracking-wider">
               Felix Chukwu’s death was dramatic and glorious. On the day he
               departed to meet with his creator, he woke up at 5 am as usual for
-              morning prayers joined by his wife, my Mother. From singing
+              morning prayers and  joined by his wife, my Mother. From singing
               praises to saying the Rosary, he showed no sign of discomfort.
               After the prayers, he came outside and sat at his usual position
               and started discussing with others. A few minutes later, his
-              breathing frequency increased. My mother asked, what is happening?
+              breathing frequency increased. My mother asked, "what is happening?"
               As a man that does not like to show pain or being pitied, he
               replied,
               <span class="italic">"nothing is happening".</span> After some
               minutes, it became obvious that all was not well which prompted
-              his Nephew and my Mother took him into his room and placed. And
+              his Nephew and my Mother to take him into his room. And
               that was it, he departed.
             </p>
             <p class="mt-3 italic">
