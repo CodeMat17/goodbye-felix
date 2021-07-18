@@ -117,10 +117,10 @@
             <p class="pt-2 font-bold text-lg">All:</p>
             <p>Blessed be God, the Father of our Lord Jesus</p>
             <p class="pt-4">
-              I bless the body of MR FELIX CHUKWU with the holy water that
+              I bless the body of FELIX CHUKWU with the holy water that
               recalls his baptism which St. Paul writes, "all of us baptized in
               Christ Jesus, were baptized unto his death". By baptism unto his
-              death we were buried together with him, so that just as Christ was
+              death, we were buried together with him, so that just as Christ was
               raised from the dead by the glory of the father, we too might live
               a new life, for we have been united with him by likeness to his
               death, we shall be united with him by likeness to his
@@ -202,7 +202,7 @@
             </p>
             <p class="pt-2">This is the word of the Lord.</p>
             <p>Thanks be to God.</p>
-            <h2 class="font-bold text-lg pt-4">Reponsorial Psalm:</h2>
+            <h2 class="font-bold text-lg pt-4">Responsorial Psalm:</h2>
             <h1 class="font-semibold">
               Response: The Lord is my Light and my help
             </h1>
@@ -244,7 +244,7 @@
             <p>
               A reading from the book of the Apocalypse (14:13). Then I heard a
               voice from heaven say to me write, write down: Blessed are those
-              who die in the Lord, Blessed indeed, the spirit says now they can
+              who die in the Lord, blessed indeed, the spirit says now they can
               rest forever after their work, since their good deeds go with
               them.
             </p>
@@ -253,7 +253,7 @@
             <h2 class="font-bold text-lg pt-4">Alleluia Alleluia:</h2>
             <p>
               I am the living bread which has Come down from heaven, says the
-              Lord, any one who eats this bread will live forever, Alleluia.
+              Lord, anyone who eats this bread will live forever, Alleluia.
             </p>
             <div class="flex justify-center py-8 space-x-6">
               <img

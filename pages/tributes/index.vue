@@ -625,7 +625,7 @@
           text-red-500
         "
       >
-        CONDOLENCES
+        CONDOLENCE MESSAGES
       </h1>
       <div class="text-lg sm:text-xl">
         <!-- Chief Oleh's condolence msg -->
@@ -750,6 +750,20 @@
             hover:scale-110
           "
         />
+         <Divider />
+         <!-- letter from st anne's -->
+        <img
+          :src="stAnns"
+          alt="st_ann's condolence"
+          class="
+            mx-auto
+            rounded-md
+            transform
+            transition
+            duration-500
+            hover:scale-110
+          "
+        />
         <Divider />
         <!-- Dr Ebere's condolence msg -->
         <div>
@@ -784,19 +798,7 @@
             hover:scale-110
           "
         />
-        <Divider />
-        <img
-          :src="stAnns"
-          alt="st_ann's condolence"
-          class="
-            mx-auto
-            rounded-md
-            transform
-            transition
-            duration-500
-            hover:scale-110
-          "
-        />
+       
         <Divider />
       </div>
     </div>
