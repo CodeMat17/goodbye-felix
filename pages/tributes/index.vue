@@ -118,8 +118,8 @@
             <p>
               I can go on and on, but words are not enough; words will never be
               enough to describe you and what you stood for. We will keep
-              praying for the repose of your soul, for God to give us
-              the fortitude to bear the vacuum your demise has created and to be
+              praying for the repose of your soul, for God to give us the
+              fortitude to bear the vacuum your demise has created and to be
               able to hold forth the true love you propagated amongst your
               relations, both far and near.
             </p>
@@ -571,6 +571,61 @@
           </p>
         </div>
         <Divider />
+        <!-- Dr Orji's tribute -->
+        <div>
+          <h3 class="font-bold tracking-wider sm:text-xl">TRIBUTE.</h3>
+          <div class="space-y-4 py-4">
+            <p class="tracking-wider">
+              I first got to see you and know you way back in 1954 when my
+              Father was at Post Office in Nkanu Native Authority, Agbani. Then
+              you and late Mr. Dan. Egbo and late Mr. Michael Nworie came for
+              church function at St. John’s Primary School, Agbani.
+            </p>
+            <p>
+              That evening, my Father brought all of us together and introduced
+              you as my relation from my father’s side and the other two as my
+              relations from my mother’s side.
+            </p>
+            <p>
+              Again, in 1957, my father was transferred to Customary Court
+              Mburubu and we the family were brought back to live at Railway
+              Station, Nomeh. I was enrolled at St. Peters Primary School, Nomeh
+              where you and I met again as pupils.
+            </p>
+            <p>
+              Some years later, you enrolled into the Nigerian Army and you sent
+              to me your photograph in Army uniform. You told me the story of
+              your experience at the beginning of the crisis that led to the
+              civil war and how God gave you safety back to the Eastern Region.
+            </p>
+            <p>
+              During the civil war, you fought on the side of the Biafran Army –
+              as an Army Engineer. At the end of the war, God granted you safety
+              back to Nomeh into the warm embrace of your dear mother.
+            </p>
+            <p>
+              Surprisingly, at the end of the civil war, you were one of those
+              who were re-enlisted into the Nigerian Army where you served until
+              retirement and then you came back home to Nomeh.
+            </p>
+            <p>
+              It is significant that during all those services with the Nigerian
+              Army, then the Biafran Army and again the Nigerian Army, you came
+              back alife without any broken limb.
+            </p>
+            <p>
+              One thing is certain to us in this life, once anyone is born into
+              this life, he or she must at the end die. And so brother, you
+              have answered the call of nature. While alife, you took care of your spiritual life.
+            </p>
+          </div>
+          <p class="tracking-wider">Goodbye</p>
+          <p class="tracking-wider">Rest well in the bosom of the Lord.</p>
+          <p class="tracking-wider text-center font-bold mt-6">
+            DR Orji Michael Nwafor.
+          </p>
+        </div>
+        <Divider />
         <!-- CMO's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -750,8 +805,8 @@
             hover:scale-110
           "
         />
-         <Divider />
-         <!-- letter from st anne's -->
+        <Divider />
+        <!-- letter from st anne's -->
         <img
           :src="stAnns"
           alt="st_ann's condolence"
@@ -798,7 +853,6 @@
             hover:scale-110
           "
         />
-       
         <Divider />
       </div>
     </div>
