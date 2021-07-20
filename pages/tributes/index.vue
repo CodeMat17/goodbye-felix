@@ -718,6 +718,8 @@
             Onikara Oko Agbi Oleh
           </p>
           <p class="tracking-wider text-center">(Akara- Aka Isingwu,Umuahia)</p>
+          <p class="tracking-wider text-center">Former Director News, FRCN</p>
+          <p class="tracking-wider text-center">Former General Manager, EBBS</p>
         </div>
         <Divider />
         <!-- Ezigbo's condolence msg -->
