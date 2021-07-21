@@ -117,10 +117,10 @@
             <p class="pt-2 font-bold text-lg">All:</p>
             <p>Blessed be God, the Father of our Lord Jesus</p>
             <p class="pt-4">
-              I bless the body of FELIX CHUKWU with the holy water that
-              recalls his baptism which St. Paul writes, "all of us baptized in
-              Christ Jesus, were baptized unto his death". By baptism unto his
-              death, we were buried together with him, so that just as Christ was
+              I bless the body of FELIX CHUKWU with the holy water that recalls
+              his baptism which St. Paul writes, "all of us baptized in Christ
+              Jesus, were baptized unto his death". By baptism unto his death,
+              we were buried together with him, so that just as Christ was
               raised from the dead by the glory of the father, we too might live
               a new life, for we have been united with him by likeness to his
               death, we shall be united with him by likeness to his
@@ -485,8 +485,8 @@
             </h2>
             <p>
               May Mary, the Most Virgin Mother of God, Kindest comforter of
-              those who mourn, commend to her son, the soul of our brother
-              FELIX CHUKWU, who has departed this life, that through her maternal
+              those who mourn, commend to her son, the soul of our brother FELIX
+              CHUKWU, who has departed this life, that through her maternal
               intercession, our brother may quickly reach his longed for home in
               the heavenly father-land, and live forever and ever. R. Amen
             </p>
@@ -831,6 +831,11 @@
             </p>
             <p class="mt-2">R. Dinwenu anyi nuru olu anyi</p>
             <p class="mt-4">
+              V. Ka Gi onye kwere onye ori nke cheghariri nkwa na oga eru na
+              Paradise, nabata nwa odibo gi, FELIX CHUKWU, na eluigwe. Anyi ario Gi Kristi.
+            </p>
+            <p class="mt-2">R. Dinwenu anyi nuru olu anyi</p>
+            <p class="mt-4">
               V. Eji mmiri nke baptism wuchapu nwanne anyi FELIX CHUKWU, njo ya,
               tee kwa ya mmanu nke zoputa, biko onye nweanyi, nye ya ezumike na
               etiti ndi nso. Anyi ario Gi Kristi.
@@ -889,9 +894,9 @@
 
 <script>
 export default {
-   mounted () {
-  window.scrollTo(0, 0)
-},
+  mounted() {
+    window.scrollTo(0, 0);
+  },
   data() {
     return {
       goodbye: "goodbye",

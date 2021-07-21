@@ -96,7 +96,7 @@
             href="https://matthewchukwu.netlify.app/"
             target="_blank"
             class="tracking-wider md:text-lg hover:text-gray-200"
-            >CONTACT</a
+            >CONTACT US</a
           >
         </div>
       </div>
