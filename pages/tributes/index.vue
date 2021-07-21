@@ -615,14 +615,45 @@
             </p>
             <p>
               One thing is certain to us in this life, once anyone is born into
-              this life, he or she must at the end die. And so brother, you
-              have answered the call of nature. While alife, you took care of your spiritual life.
+              this life, he or she must at the end die. And so brother, you have
+              answered the call of nature. While alife, you took care of your
+              spiritual life.
             </p>
           </div>
           <p class="tracking-wider">Goodbye</p>
           <p class="tracking-wider">Rest well in the bosom of the Lord.</p>
           <p class="tracking-wider text-center font-bold mt-6">
             DR Orji Michael Nwafor.
+          </p>
+        </div>
+        <Divider />
+        <!-- Anty Nwaka's tribute -->
+        <div>
+          <h3 class="font-bold tracking-wider sm:text-xl">
+            TRIBUTE TO OUR UNCLE WITH A BENEVOLENT HEART
+          </h3>
+          <div class="space-y-4 py-4">
+            <p class="tracking-wider">
+              Life is full of pains and sorrow, you are here today, gone
+              tomorrow. If only we know when we are going to die we would all be
+              prepared to say goodbye.
+            </p>
+            <p>
+              Mr Death doesn't seem to Care, Why did you come so sudden to take
+              away our uncle, father, friend and our brother. I remembered how
+              he comforted us during my mother's death not knowing that you are
+              not going to be there for us to bury mama.
+            </p>
+            <p>
+              As it pained my heart when I heard the news of your death ,I did
+              nothing than to break down in tears Because of the manner in which
+              you joined my mother to leave so soon. Uncle we miss you and your
+              advise . WE LOVE YOU BUT GOD LOVES YOU MORE .
+            </p>
+          </div>
+          <p class="tracking-wider">ADIEU UNCLE FELIX.</p>
+          <p class="tracking-wider text-center font-bold mt-6">
+            Jenneth Chukwuani's family.
           </p>
         </div>
         <Divider />
