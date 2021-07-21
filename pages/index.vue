@@ -502,7 +502,7 @@
               Ekele dili Chineke, Nna nke Onyenwe anyi Jesu Kristi, Nna nke
               ebere nile, na Chineke Onye nkasi obi nile. N'hi na o bu site na
               nkasi obi o na akasi anyi na nsogbu anyi nile k'anyi ji wee
-              nwee-ike kasie ndi ozo obi n ime mkpabu obula diri ha.
+              nwee-ike kasie ndi ozo obi n ime mkpagbu obula diri ha.
             </p>
             <p class="pt-2 font-bold text-lg">All:</p>
             <p>Ngozi diri Chineke Nna Onyenwe anyi Jesus.</p>
