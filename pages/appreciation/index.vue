@@ -67,6 +67,69 @@
         <p>Engr. Chukwu A. Matthew</p>
         <p class="text-gray-500">For the family</p>
       </div>
+      <div class="mt-6 flex justify-between items-center">
+        <button
+          @click="$router.back()"
+          class="
+            shadow-lg
+            p-2
+            rounded-md
+            text-gray-200
+            tracking-wider
+            dark:text-gray-800
+            focus:outline-none
+            focus:shadow-outline
+          "
+        >
+          <div class="flex items-center justify-center">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-6 w-6"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M11 19l-7-7 7-7m8 14l-7-7 7-7"
+              />
+            </svg>
+            <p class="text-xs tracking-widest font-semibold">BACK</p>
+          </div>
+        </button>
+
+        <a
+          href="https://matthewchukwu.netlify.app/"
+          target="_blank"
+          class="
+            p-2
+            rounded-md
+            text-gray-800
+            bg-gray-200
+            flex
+            items-center
+            justify-center
+          "
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-6 w-6"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M11 19l-7-7 7-7m8 14l-7-7 7-7"
+            />
+          </svg>
+          <p class="font-semibold tracking-widest text-xs">CONTACT US</p>
+        </a>
+      </div>
     </div>
   </div>
 </template>

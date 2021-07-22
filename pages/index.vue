@@ -832,7 +832,8 @@
             <p class="mt-2">R. Dinwenu anyi nuru olu anyi</p>
             <p class="mt-4">
               V. Ka Gi onye kwere onye ori nke cheghariri nkwa na oga eru na
-              Paradise, nabata nwa odibo gi, FELIX CHUKWU, na eluigwe. Anyi ario Gi Kristi.
+              Paradise, nabata nwa odibo gi, FELIX CHUKWU, na eluigwe. Anyi ario
+              Gi Kristi.
             </p>
             <p class="mt-2">R. Dinwenu anyi nuru olu anyi</p>
             <p class="mt-4">
@@ -886,6 +887,30 @@
             </p>
             <p class="mt-2">R. Amen</p>
           </div>
+        </div>
+        <div class="mt-10 flex justify-end">
+          <n-link
+            to="/biography"
+            class="bg-gray-200 shadow-xl border p-2 rounded-md"
+          >
+            <div class="flex items-center justify-center text-gray-800">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="h-6 w-6"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M13 5l7 7-7 7M5 5l7 7-7 7"
+                />
+              </svg>
+              <p class="tracking-widest text-xs font-semibold">BIOGRAPHY</p>
+            </div>
+          </n-link>
         </div>
       </div>
     </div>

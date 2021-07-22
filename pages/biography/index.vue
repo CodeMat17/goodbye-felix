@@ -173,7 +173,9 @@
                 own".</span
               >
             </p>
-            <p class="mt-3 tracking-wider">He was a counselor and man of peace.</p>
+            <p class="mt-3 tracking-wider">
+              He was a counselor and man of peace.
+            </p>
             <p class="mt-3 tracking-wider">
               His marriage to Chinyere Bridget Chukwu is blessed with two
               children (an Engineer and a Cooperative Economist.)
@@ -184,17 +186,17 @@
             <p class="tracking-wider">
               Felix Chukwu’s death was dramatic and glorious. On the day he
               departed to meet with his creator, he woke up at 5 am as usual for
-              morning prayers and  joined by his wife, my Mother. From singing
+              morning prayers and joined by his wife, my Mother. From singing
               praises to saying the Rosary, he showed no sign of discomfort.
               After the prayers, he came outside and sat at his usual position
               and started discussing with others. A few minutes later, his
-              breathing frequency increased. My mother asked, "what is happening?"
-              As a man that does not like to show pain or being pitied, he
-              replied,
+              breathing frequency increased. My mother asked, "what is
+              happening?" As a man that does not like to show pain or being
+              pitied, he replied,
               <span class="italic">"nothing is happening".</span> After some
               minutes, it became obvious that all was not well which prompted
-              his Nephew and my Mother to take him into his room. And
-              that was it, he departed.
+              his Nephew and my Mother to take him into his room. And that was
+              it, he departed.
             </p>
             <p class="mt-3 italic">
               “As it is, however, there still remains for God’s people a rest
@@ -212,6 +214,59 @@
             <p>(Software Engineer)</p>
           </div>
         </div>
+      </div>
+      <div class="mt-10 flex justify-between">
+        <button
+          @click="$router.back()"
+          class="
+            shadow-lg
+            p-2
+            rounded-md
+            text-gray-200
+          focus:outline-none focus:shadow-outline
+            dark:text-gray-800
+          "
+        >
+          <div class="flex items-center justify-center">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-6 w-6"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M11 19l-7-7 7-7m8 14l-7-7 7-7"
+              />
+            </svg>
+            <p class="text-xs tracking-widest font-semibold">BACK</p>
+          </div>
+        </button>
+        <n-link
+          to="/tributes"
+          class="bg-gray-200 shadow-lg border p-2 rounded-md"
+        >
+          <div class="flex items-center justify-center  text-gray-800">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-6 w-6"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M13 5l7 7-7 7M5 5l7 7-7 7"
+              />
+            </svg>
+            <p class="tracking-widest text-xs font-semibold">TRIBUTES</p>
+          </div>
+        </n-link>
       </div>
     </div>
   </div>
