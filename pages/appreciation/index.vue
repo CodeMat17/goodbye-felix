@@ -127,7 +127,7 @@
               d="M11 19l-7-7 7-7m8 14l-7-7 7-7"
             />
           </svg>
-          <p class="font-semibold tracking-widest text-xs">CONTACT US</p>
+          <p class="font-semibold tracking-widest text-xs">DEV CONTACT</p>
         </a>
       </div>
     </div>

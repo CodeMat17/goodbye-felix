@@ -96,7 +96,7 @@
             href="https://matthewchukwu.netlify.app/"
             target="_blank"
             class="tracking-wider md:text-lg hover:text-gray-200"
-            >CONTACT US</a
+            >DEV CONTACT</a
           >
         </div>
       </div>
@@ -197,7 +197,7 @@
               focus:bg-gray-200
               text-center
             "
-            >CONTACT US</a
+            >DEV CONTACT</a
           >
         </div>
       </transition>
