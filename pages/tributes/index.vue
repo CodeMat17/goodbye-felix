@@ -887,6 +887,192 @@
           "
         />
         <Divider />
+        <h1
+          class="
+            sm:pt-6
+            text-center
+            pb-4
+            tracking-widest
+            font-bold
+            text-xl
+            sm:text-2xl
+            text-gray-500
+          "
+        >
+          SELECTED TRIBUTES FROM THE SOCIAL MEDIA
+        </h1>
+        <img
+          :src="agoluwa"
+          alt="social media tribute"
+          class="mx-auto rounded-md"
+        />
+        <img
+          :src="benita"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="cathy"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="cele"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="anselem"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="chiboy"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="clems"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        
+        <img
+          :src="dona"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="edu"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="encee"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="eze1"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="eze2"
+          alt="social media tribute"
+          class="mx-auto rounded-md"
+        />
+        <img
+          :src="hoh"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="iyke"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="kachi"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="kings"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="monkey"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="nnaemeka"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="ojukwu"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="okeke"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="prez"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="saga"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="sunny"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="too"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="uche"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="osy"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="prince"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="sam"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="onyema"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="michael"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="mazi"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="kc"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="hon"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
+          :src="chiboi"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <Divider />
       </div>
       <div class="mt-10 flex justify-between">
         <button
@@ -898,7 +1084,8 @@
             text-gray-200
             tracking-wider
             dark:text-gray-800
-             focus:outline-none focus:shadow-outline
+            focus:outline-none
+            focus:shadow-outline
           "
         >
           <div class="flex items-center justify-center">
@@ -970,7 +1157,150 @@ export default {
     const stAnns = $cloudinary.image.url("goodbye/st_Anns", {
       quality: "auto",
     });
-    return { minlaw, ezigbo, nfvcb, oge, ugonna, stAnns };
+    const agoluwa = $cloudinary.image.url("goodbye/sm/agoluwa", {
+      quality: "auto",
+    });
+    const benita = $cloudinary.image.url("goodbye/sm/benita", {
+      quality: "auto",
+    });
+    const cathy = $cloudinary.image.url("goodbye/sm/cathy", {
+      quality: "auto",
+    });
+    const cele = $cloudinary.image.url("goodbye/sm/cele", {
+      quality: "auto",
+    });
+    const anselem = $cloudinary.image.url("goodbye/sm/anselem", {
+      quality: "auto",
+    });
+    const chiboy = $cloudinary.image.url("goodbye/sm/chiboy", {
+      quality: "auto",
+    });
+    const clems = $cloudinary.image.url("goodbye/sm/clems", {
+      quality: "auto",
+    });
+    const dona = $cloudinary.image.url("goodbye/sm/dona", {
+      quality: "auto",
+    });
+    const edu = $cloudinary.image.url("goodbye/sm/edu", {
+      quality: "auto",
+    });
+    const encee = $cloudinary.image.url("goodbye/sm/encee", {
+      quality: "auto",
+    });
+    const eze1 = $cloudinary.image.url("goodbye/sm/eze1", {
+      quality: "auto",
+    });
+    const eze2 = $cloudinary.image.url("goodbye/sm/eze2", {
+      quality: "auto",
+    });
+    const hoh = $cloudinary.image.url("goodbye/sm/hoh", {
+      quality: "auto",
+    });
+    const iyke = $cloudinary.image.url("goodbye/sm/iyke", {
+      quality: "auto",
+    });
+    const kachi = $cloudinary.image.url("goodbye/sm/kachi", {
+      quality: "auto",
+    });
+    const kings = $cloudinary.image.url("goodbye/sm/kings", {
+      quality: "auto",
+    });
+    const monkey = $cloudinary.image.url("goodbye/sm/monkey", {
+      quality: "auto",
+    });
+    const nnaemeka = $cloudinary.image.url("goodbye/sm/nnaemeka", {
+      quality: "auto",
+    });
+    const ojukwu = $cloudinary.image.url("goodbye/sm/ojukwu", {
+      quality: "auto",
+    });
+    const okeke = $cloudinary.image.url("goodbye/sm/okeke", {
+      quality: "auto",
+    });
+    const prez = $cloudinary.image.url("goodbye/sm/prez", {
+      quality: "auto",
+    });
+    const saga = $cloudinary.image.url("goodbye/sm/saga", {
+      quality: "auto",
+    });
+    const sunny = $cloudinary.image.url("goodbye/sm/sunny", {
+      quality: "auto",
+    });
+    const too = $cloudinary.image.url("goodbye/sm/too", {
+      quality: "auto",
+    });
+    const uche = $cloudinary.image.url("goodbye/sm/uche", {
+      quality: "auto",
+    });
+    const osy = $cloudinary.image.url("goodbye/sm/osy", {
+      quality: "auto",
+    });
+    const prince = $cloudinary.image.url("goodbye/sm/prince", {
+      quality: "auto",
+    });
+    const sam = $cloudinary.image.url("goodbye/sm/sam", {
+      quality: "auto",
+    });
+    const onyema = $cloudinary.image.url("goodbye/sm/onyema", {
+      quality: "auto",
+    });
+    const michael = $cloudinary.image.url("goodbye/sm/michael", {
+      quality: "auto",
+    });
+    const mazi = $cloudinary.image.url("goodbye/sm/mazi", {
+      quality: "auto",
+    });
+    const kc = $cloudinary.image.url("goodbye/sm/kc", {
+      quality: "auto",
+    });
+    const hon = $cloudinary.image.url("goodbye/sm/hon", {
+      quality: "auto",
+    });
+    const chiboi = $cloudinary.image.url("goodbye/sm/chiboi", {
+      quality: "auto",
+    });
+    return {
+      minlaw,
+      ezigbo,
+      nfvcb,
+      oge,
+      ugonna,
+      stAnns,
+      agoluwa,
+      benita,
+      cathy,
+      cele,
+      anselem,
+      chiboy,
+      clems,
+      dona,
+      edu,
+      encee,
+      eze1,
+      eze2,
+      hoh,
+      iyke,
+      kachi,
+      kings,
+      monkey,
+      nnaemeka,
+      ojukwu,
+      okeke,
+      prez,
+      saga,
+      sunny,
+      too,
+      uche,
+      osy,
+      prince,
+      sam,
+      onyema,
+      michael,
+      mazi,
+      kc,
+      hon,
+      chiboi,
+    };
   },
 };
 </script>
