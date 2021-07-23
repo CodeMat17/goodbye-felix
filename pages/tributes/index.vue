@@ -899,7 +899,7 @@
             text-gray-500
           "
         >
-          SELECTED TRIBUTES FROM THE SOCIAL MEDIA
+          SELECTED TRIBUTES AND CONDOLENCES FROM THE SOCIAL MEDIA
         </h1>
         <img
           :src="agoluwa"
@@ -936,7 +936,7 @@
           alt="social media tribute"
           class="mx-auto rounded-md mt-4"
         />
-        
+
         <img
           :src="dona"
           alt="social media tribute"

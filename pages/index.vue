@@ -78,30 +78,30 @@
                 <button
                   @click="englishButt"
                   class="
-                    text-sm text-blue-600
+                    text-sm text-white
                     tracking-wide
                     font-semibold
                     focus:outline-none
                     focus:shadow-outline
                     p-2
                   "
-                  :class="english ? 'bg-gray-500' : 'bg-blue-200'"
+                  :class="english ? 'bg-gray-500' : 'bg-blue-600'"
                 >
-                  ENGLISH
+                  ENGLISH VERSION
                 </button>
                 <button
                   @click="igboButt"
                   class="
-                    text-sm text-blue-600
+                    text-sm text-white
                     tracking-wide
                     font-semibold
                     focus:outline-none
                     focus:shadow-outline
                     p-2
                   "
-                  :class="igbo ? 'bg-gray-500' : 'bg-blue-200'"
+                  :class="igbo ? 'bg-gray-500' : 'bg-blue-600'"
                 >
-                  IGBO
+                  IGBO VERSION
                 </button>
               </div>
             </div>

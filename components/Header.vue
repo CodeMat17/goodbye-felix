@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gray-800">
-    <div class="px-4">
+    <div class="pl-6 pr-8">
       <div class="flex items-center justify-between">
         <div class="py-2 flex items-center space-x-2 text-sm">
           <img
@@ -68,7 +68,7 @@
             </svg>
           </button>
         </div>
-        <div class="hidden md:block text-blue-500 space-x-2">
+        <div class="hidden md:block text-blue-500 space-x-2 ml-4">
           <n-link to="/" class="tracking-wide md:text-lg hover:text-gray-200"
             >REQUIEM</n-link
           >
@@ -96,7 +96,7 @@
             href="https://matthewchukwu.netlify.app/"
             target="_blank"
             class="tracking-wider md:text-lg hover:text-gray-200"
-            >DEV CONTACT</a
+            >DEV-CONTACT</a
           >
         </div>
       </div>
