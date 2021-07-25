@@ -1042,6 +1042,11 @@
           alt="social media tribute"
           class="mx-auto rounded-md mt-4"
         />
+         <img
+          :src="ben"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
         <img
           :src="onyema"
           alt="social media tribute"
@@ -1072,6 +1077,7 @@
           alt="social media tribute"
           class="mx-auto rounded-md mt-4"
         />
+       
         <Divider />
       </div>
       <div class="mt-10 flex justify-between">
@@ -1259,6 +1265,9 @@ export default {
     const chiboi = $cloudinary.image.url("goodbye/sm/chiboi", {
       quality: "auto",
     });
+     const ben = $cloudinary.image.url("goodbye/sm/ben", {
+      quality: "auto",
+    });
     return {
       minlaw,
       ezigbo,
@@ -1300,6 +1309,7 @@ export default {
       kc,
       hon,
       chiboi,
+      ben
     };
   },
 };
