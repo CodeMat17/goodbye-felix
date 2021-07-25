@@ -1028,6 +1028,11 @@
           class="mx-auto rounded-md mt-4"
         />
         <img
+          :src="ben"
+          alt="social media tribute"
+          class="mx-auto rounded-md mt-4"
+        />
+        <img
           :src="osy"
           alt="social media tribute"
           class="mx-auto rounded-md mt-4"
@@ -1042,11 +1047,7 @@
           alt="social media tribute"
           class="mx-auto rounded-md mt-4"
         />
-         <img
-          :src="ben"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
+         
         <img
           :src="onyema"
           alt="social media tribute"
