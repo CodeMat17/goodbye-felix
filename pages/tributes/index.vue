@@ -106,9 +106,7 @@
               You were principled to the core. In all you did, you tried to
               achieve your goals with minimal or zero errors. You taught me the
               true definition of humility, credibility, trustworthiness, and
-              being God-fearing. Even 3 weeks before your demise when I came
-              home to see you and Mom, you still spoke with me about respecting
-              my elders and seniors at my place of work. I will miss you Dad.
+              being God-fearing. I will miss you Dad.
             </p>
             <p>
               Your love for your family, siblings, nephews, nieces etc was never
@@ -672,508 +670,522 @@
               Parish life in general.
             </p>
             <p>
-              This close relationship, as brother, son and friend was as a result of your virtuous qualities. They include your desire for righteous attitude and conduct in every facet of human endeavour, love for excellence, courageous efforts and actions to achieve, succeed and triumph positively in issues and challenges. Others are: truthfulness, hardworking, gentle, quiet and calculative approach to encounters, alongside your military training disciplinary exhibitions. Your faith in Christ was solid, as the anchor to hope and love and the aforementioned qualities/virtues for humanity, in view of your salvation.
+              This close relationship, as brother, son and friend was as a
+              result of your virtuous qualities. They include your desire for
+              righteous attitude and conduct in every facet of human endeavour,
+              love for excellence, courageous efforts and actions to achieve,
+              succeed and triumph positively in issues and challenges. Others
+              are: truthfulness, hardworking, gentle, quiet and calculative
+              approach to encounters, alongside your military training
+              disciplinary exhibitions. Your faith in Christ was solid, as the
+              anchor to hope and love and the aforementioned qualities/virtues
+              for humanity, in view of your salvation.
             </p>
             <p>
-              However, dear brother, son and friend, you had your weaknesses, especially losing your temper easily when virtues are worked against. This and your truthful stance in matters often brought you misunderstanding and trouble from the culprits. A point you suffered greatly at the last period of your life on earth, unto death, from some family members and beyond.
+              However, dear brother, son and friend, you had your weaknesses,
+              especially losing your temper easily when virtues are worked
+              against. This and your truthful stance in matters often brought
+              you misunderstanding and trouble from the culprits. A point you
+              suffered greatly at the last period of your life on earth, unto
+              death, from some family members and beyond.
             </p>
             <p>
-               Felix,  your humaneness and generousity are not forgotten. Thus, these your attitudinal disposition endeared our relationship till death, even after leaving Nomeh Unateze Parish. 
+              Felix, your humaneness and generousity are not forgotten. Thus,
+              these your attitudinal disposition endeared our relationship till
+              death, even after leaving Nomeh Unateze Parish.
             </p>
             <p>
-Felix, go in peace and hope of meeting God's mercy. Adieu!, my brother, son and friend, till we meet again in the Lord's presence by His grace.             </p>
+              Felix, go in peace and hope of meeting God's mercy. Adieu!, my
+              brother, son and friend, till we meet again in the Lord's presence
+              by His grace.
+            </p>
           </div>
           <p>
-Rest in peace, as we hope in God to take care of your family, and others dependent on you when alive, through direct and indirect/human instruments.           </div>
-         
-         
-          <p class="tracking-wider text-center font-bold mt-6">
-            L. I. Orjiene (Rev. Fr.).
-          </p>
-           <p class="tracking-wider mt-2">St. John's Parish, Mgbowo</p>
-            <p class="tracking-wider mt-2">Catholic Diocese of Awgu Enugu State.</p>
-        </div>
-        <Divider />
-        <!-- CMO's tribute -->
-        <div>
-          <h3 class="font-bold tracking-wider sm:text-xl">
-            TRIBUTE FROM THE CATHOLIC MEN ORGANISATION.
-          </h3>
-          <div class="space-y-4 py-4">
-            <p class="tracking-wider">
-              A tribute to a caring father and a patron of the Catholic Men
-              Organization, C.M.O, St. Patrick's Parish, Nomeh Unateze, Chief
-              Felix Chukwu (Late).
-            </p>
-            <p>
-              The news of your transition to glory came as a shock to those who
-              have come across you. Death! you have given away our member,
-              father, grandfather, patron, our adviser. Papa, you were like a
-              morning star to your family members.
-            </p>
-            <p>
-              You offered wise counsel in the Church during meetings, especially
-              in the C.M.O. You served as the chairman of C.M.O. St Patrick's
-              Parish, Nomeh, from 2014 - 2018 and made valuable contributions to
-              the entire C.M.O. During your tenure, you built the Parish toilet.
-            </p>
-            <p>
-              After you became our Patron, till your death, we enjoyed your
-              lifestyle. We also believe that the world is a stage where
-              everyone plays his part and you played yours well in our own
-              understanding. We hope you are in the company of our Lord Jesus
-              Christ.
-            </p>
-          </div>
-          <p class="tracking-wider">Adieu Papa</p>
-          <p class="tracking-wider">Adieu Patron</p>
-          <p class="tracking-wider">Adieu Soldier</p>
-          <p class="tracking-wider">May your soul rest in peace.</p>
-          <p class="tracking-wider text-center font-bold mt-6">
-            C.M.O. St. Patrick's Parish Nomeh.
+            Rest in peace, as we hope in God to take care of your family, and
+            others dependent on you when alive, through direct and
+            indirect/human instruments.
           </p>
         </div>
-        <Divider />
+
+        <p class="tracking-wider text-center font-bold mt-6">
+          L. I. Orjiene (Rev. Fr.).
+        </p>
+        <p class="tracking-wider text-center mt-2">St. John's Parish, Mgbowo</p>
+        <p class="tracking-wider text-center mt-2">
+          Catholic Diocese of Awgu Enugu State.
+        </p>
       </div>
+      <Divider />
+      <!-- CMO's tribute -->
+      <div>
+        <h3 class="font-bold tracking-wider sm:text-xl">
+          TRIBUTE FROM THE CATHOLIC MEN ORGANISATION.
+        </h3>
+        <div class="space-y-4 py-4">
+          <p class="tracking-wider">
+            A tribute to a caring father and a patron of the Catholic Men
+            Organization, C.M.O, St. Patrick's Parish, Nomeh Unateze, Chief
+            Felix Chukwu (Late).
+          </p>
+          <p>
+            The news of your transition to glory came as a shock to those who
+            have come across you. Death! you have given away our member, father,
+            grandfather, patron, our adviser. Papa, you were like a morning star
+            to your family members.
+          </p>
+          <p>
+            You offered wise counsel in the Church during meetings, especially
+            in the C.M.O. You served as the chairman of C.M.O. St Patrick's
+            Parish, Nomeh, from 2014 - 2018 and made valuable contributions to
+            the entire C.M.O. During your tenure, you built the Parish toilet.
+          </p>
+          <p>
+            After you became our Patron, till your death, we enjoyed your
+            lifestyle. We also believe that the world is a stage where everyone
+            plays his part and you played yours well in our own understanding.
+            We hope you are in the company of our Lord Jesus Christ.
+          </p>
+        </div>
+        <p class="tracking-wider">Adieu Papa</p>
+        <p class="tracking-wider">Adieu Patron</p>
+        <p class="tracking-wider">Adieu Soldier</p>
+        <p class="tracking-wider">May your soul rest in peace.</p>
+        <p class="tracking-wider text-center font-bold mt-6">
+          C.M.O. St. Patrick's Parish Nomeh.
+        </p>
+      </div>
+      <Divider />
+    </div>
+    <h1
+      class="
+        sm:pt-6
+        text-center
+        mt-12
+        pb-4
+        tracking-widest
+        font-bold
+        text-xl
+        sm:text-2xl
+        text-red-500
+      "
+    >
+      CONDOLENCE MESSAGES
+    </h1>
+    <div class="text-lg sm:text-xl">
+      <!-- Chief Oleh's condolence msg -->
+      <div>
+        <h3 class="tracking-wider">Mr Matthew Anthony Chukwu,</h3>
+        <h3 class="tracking-wider">Nomeh Unateze Village,</h3>
+        <h3 class="tracking-wider">Enugu State</h3>
+        <h3 class="py-6 font-semibold tracking-wider">MESSAGE OF CONDOLENCE</h3>
+        <div class="space-y-4">
+          <p class="tracking-wider">
+            News of the death of your father and father in-law of my daughter
+            came to my family as a shock. As a matter of fact, the news of the
+            demise reached me a few hours after I had spoken with my daughter,
+            Mrs Uchanta Chukwu. However, we are consoled by the fact that your
+            father lived a Christian life.
+          </p>
+          <p>
+            From every consideration, your father was known to most of the
+            leading members of Agbi nta, my biological father‘s extended family
+            many of whom witnessed the marriage ceremony between you and my
+            daughter Ucha.
+          </p>
+          <p>
+            It is my view that your father was a good Christian and therefore
+            deserves eternal rest in heaven humanity’s resting place.
+          </p>
+        </div>
+        <p class="tracking-wider mt-4">Jenu Nnadi Nwam!</p>
+        <p class="tracking-wider">Laa nu oke nwoke!</p>
+        <p class="tracking-wider">We will meet some day to part no more.</p>
+        <p class="tracking-wider">Bye for now enyim nwoke!</p>
+        <p class="tracking-wider text-center font-bold mt-6">
+          Onikara Oko Agbi Oleh
+        </p>
+        <p class="tracking-wider text-center">(Akara- Aka Isingwu,Umuahia)</p>
+        <p class="tracking-wider text-center">Former Director News, FRCN</p>
+        <p class="tracking-wider text-center">Former General Manager, EBBS</p>
+      </div>
+      <Divider />
+      <!-- Ezigbo's condolence msg -->
+      <img
+        :src="ezigbo"
+        alt="Ezigbo's condolence"
+        class="
+          mx-auto
+          rounded-md
+          transform
+          transition
+          duration-500
+          hover:scale-110
+        "
+      />
+      <Divider />
+      <!-- NFVCB Abuja condolence msg -->
+      <img
+        :src="nfvcb"
+        alt="nfvcb condolence"
+        class="
+          mx-auto
+          rounded-md
+          transform
+          transition
+          duration-500
+          hover:scale-110
+        "
+      />
+      <Divider />
+      <!-- Mrs Ole's condolence msg -->
+      <div>
+        <h3 class="py-6 font-semibold tracking-wider">
+          CONDOLENCE MESSAGE TO MY SON IN-LAW
+        </h3>
+        <div class="space-y-4">
+          <p class="tracking-wider">
+            I received the news of your father’s demise with shock. It is still
+            painful and difficult to accept that he is gone, though we are left
+            without a choice. Your father was a man of peace, kind and
+            warm-hearted in all his ways. He was so courageous and always
+            expecting the best. His positive outlook instilled discipline and
+            devotion in many that were around him.
+          </p>
+          <p>
+            Caring and resourceful father like no other, we love him just as he
+            loved us. His memories will remain indelible in our hearts.
+          </p>
+          <p>
+            For it is, when one’s assignments are completed, it becomes
+            expedient for him/her to respectfully answer that divine call. This
+            is what happened.
+          </p>
+        </div>
+        <p class="tracking-wider mt-4">Goodnight great man</p>
+        <p class="tracking-wider">Bye my in-law</p>
+        <p class="tracking-wider text-center font-bold mt-6">
+          OLEH MARY OGECHUKWU
+        </p>
+      </div>
+      <Divider />
+      <img
+        :src="minlaw"
+        alt="oge's condolence"
+        class="
+          mx-auto
+          rounded-md
+          transform
+          transition
+          duration-500
+          hover:scale-110
+        "
+      />
+      <Divider />
+      <!-- Oge's condolence msg -->
+      <img
+        :src="oge"
+        alt="oge's condolence"
+        class="
+          mx-auto
+          rounded-md
+          transform
+          transition
+          duration-500
+          hover:scale-110
+        "
+      />
+      <Divider />
+      <!-- letter from st anne's -->
+      <img
+        :src="stAnns"
+        alt="st_ann's condolence"
+        class="
+          mx-auto
+          rounded-md
+          transform
+          transition
+          duration-500
+          hover:scale-110
+        "
+      />
+      <Divider />
+      <!-- Dr Ebere's condolence msg -->
+      <div>
+        <h3 class="tracking-wider font-semibold">EXIT OF A HERO</h3>
+        <div class="space-y-4 mt-4">
+          <p class="tracking-wider">
+            We wish to express our heartfelt condolence to Mr. Matthew & Mrs.
+            Uchanta Chukwu and the entire Chukwu family on the demise of their
+            father, brother, uncle and son, Mr. Felix Chukwu. Daddy was an icon
+            and a hero who as an army veteran dedicated his life to serving our
+            fatherland. He was a wonderful father and will be dearly missed. May
+            his soul rest in perfect peace and May God grant the family the
+            fortitude to bear the loss.
+          </p>
+        </div>
+        <p class="tracking-wider">Adieu Daddy.</p>
+        <p class="tracking-wider text-center font-bold mt-6">
+          Dr. Ifeanyichukwu & Dr (Mrs) Ebere Ugwu
+        </p>
+        <p class="tracking-wider text-center">(In-laws)</p>
+      </div>
+      <Divider />
+      <img
+        :src="ugonna"
+        alt="ugonna's condolence"
+        class="
+          mx-auto
+          rounded-md
+          transform
+          transition
+          duration-500
+          hover:scale-110
+        "
+      />
+      <Divider />
       <h1
         class="
           sm:pt-6
           text-center
-          mt-12
           pb-4
           tracking-widest
           font-bold
           text-xl
           sm:text-2xl
-          text-red-500
+          text-gray-500
         "
       >
-        CONDOLENCE MESSAGES
+        SELECTED TRIBUTES AND CONDOLENCES FROM THE SOCIAL MEDIA
       </h1>
-      <div class="text-lg sm:text-xl">
-        <!-- Chief Oleh's condolence msg -->
-        <div>
-          <h3 class="tracking-wider">Mr Matthew Anthony Chukwu,</h3>
-          <h3 class="tracking-wider">Nomeh Unateze Village,</h3>
-          <h3 class="tracking-wider">Enugu State</h3>
-          <h3 class="py-6 font-semibold tracking-wider">
-            MESSAGE OF CONDOLENCE
-          </h3>
-          <div class="space-y-4">
-            <p class="tracking-wider">
-              News of the death of your father and father in-law of my daughter
-              came to my family as a shock. As a matter of fact, the news of the
-              demise reached me a few hours after I had spoken with my daughter,
-              Mrs Uchanta Chukwu. However, we are consoled by the fact that your
-              father lived a Christian life.
-            </p>
-            <p>
-              From every consideration, your father was known to most of the
-              leading members of Agbi nta, my biological father‘s extended
-              family many of whom witnessed the marriage ceremony between you
-              and my daughter Ucha.
-            </p>
-            <p>
-              It is my view that your father was a good Christian and therefore
-              deserves eternal rest in heaven humanity’s resting place.
-            </p>
-          </div>
-          <p class="tracking-wider mt-4">Jenu Nnadi Nwam!</p>
-          <p class="tracking-wider">Laa nu oke nwoke!</p>
-          <p class="tracking-wider">We will meet some day to part no more.</p>
-          <p class="tracking-wider">Bye for now enyim nwoke!</p>
-          <p class="tracking-wider text-center font-bold mt-6">
-            Onikara Oko Agbi Oleh
-          </p>
-          <p class="tracking-wider text-center">(Akara- Aka Isingwu,Umuahia)</p>
-          <p class="tracking-wider text-center">Former Director News, FRCN</p>
-          <p class="tracking-wider text-center">Former General Manager, EBBS</p>
-        </div>
-        <Divider />
-        <!-- Ezigbo's condolence msg -->
-        <img
-          :src="ezigbo"
-          alt="Ezigbo's condolence"
-          class="
-            mx-auto
-            rounded-md
-            transform
-            transition
-            duration-500
-            hover:scale-110
-          "
-        />
-        <Divider />
-        <!-- NFVCB Abuja condolence msg -->
-        <img
-          :src="nfvcb"
-          alt="nfvcb condolence"
-          class="
-            mx-auto
-            rounded-md
-            transform
-            transition
-            duration-500
-            hover:scale-110
-          "
-        />
-        <Divider />
-        <!-- Mrs Ole's condolence msg -->
-        <div>
-          <h3 class="py-6 font-semibold tracking-wider">
-            CONDOLENCE MESSAGE TO MY SON IN-LAW
-          </h3>
-          <div class="space-y-4">
-            <p class="tracking-wider">
-              I received the news of your father’s demise with shock. It is
-              still painful and difficult to accept that he is gone, though we
-              are left without a choice. Your father was a man of peace, kind
-              and warm-hearted in all his ways. He was so courageous and always
-              expecting the best. His positive outlook instilled discipline and
-              devotion in many that were around him.
-            </p>
-            <p>
-              Caring and resourceful father like no other, we love him just as
-              he loved us. His memories will remain indelible in our hearts.
-            </p>
-            <p>
-              For it is, when one’s assignments are completed, it becomes
-              expedient for him/her to respectfully answer that divine call.
-              This is what happened.
-            </p>
-          </div>
-          <p class="tracking-wider mt-4">Goodnight great man</p>
-          <p class="tracking-wider">Bye my in-law</p>
-          <p class="tracking-wider text-center font-bold mt-6">
-            OLEH MARY OGECHUKWU
-          </p>
-        </div>
-        <Divider />
-        <img
-          :src="minlaw"
-          alt="oge's condolence"
-          class="
-            mx-auto
-            rounded-md
-            transform
-            transition
-            duration-500
-            hover:scale-110
-          "
-        />
-        <Divider />
-        <!-- Oge's condolence msg -->
-        <img
-          :src="oge"
-          alt="oge's condolence"
-          class="
-            mx-auto
-            rounded-md
-            transform
-            transition
-            duration-500
-            hover:scale-110
-          "
-        />
-        <Divider />
-        <!-- letter from st anne's -->
-        <img
-          :src="stAnns"
-          alt="st_ann's condolence"
-          class="
-            mx-auto
-            rounded-md
-            transform
-            transition
-            duration-500
-            hover:scale-110
-          "
-        />
-        <Divider />
-        <!-- Dr Ebere's condolence msg -->
-        <div>
-          <h3 class="tracking-wider font-semibold">EXIT OF A HERO</h3>
-          <div class="space-y-4 mt-4">
-            <p class="tracking-wider">
-              We wish to express our heartfelt condolence to Mr. Matthew & Mrs.
-              Uchanta Chukwu and the entire Chukwu family on the demise of their
-              father, brother, uncle and son, Mr. Felix Chukwu. Daddy was an
-              icon and a hero who as an army veteran dedicated his life to
-              serving our fatherland. He was a wonderful father and will be
-              dearly missed. May his soul rest in perfect peace and May God
-              grant the family the fortitude to bear the loss.
-            </p>
-          </div>
-          <p class="tracking-wider">Adieu Daddy.</p>
-          <p class="tracking-wider text-center font-bold mt-6">
-            Dr. Ifeanyichukwu & Dr (Mrs) Ebere Ugwu
-          </p>
-          <p class="tracking-wider text-center">(In-laws)</p>
-        </div>
-        <Divider />
-        <img
-          :src="ugonna"
-          alt="ugonna's condolence"
-          class="
-            mx-auto
-            rounded-md
-            transform
-            transition
-            duration-500
-            hover:scale-110
-          "
-        />
-        <Divider />
-        <h1
-          class="
-            sm:pt-6
-            text-center
-            pb-4
-            tracking-widest
-            font-bold
-            text-xl
-            sm:text-2xl
-            text-gray-500
-          "
-        >
-          SELECTED TRIBUTES AND CONDOLENCES FROM THE SOCIAL MEDIA
-        </h1>
-        <img
-          :src="agoluwa"
-          alt="social media tribute"
-          class="mx-auto rounded-md"
-        />
-        <img
-          :src="benita"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="cathy"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="cele"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="anselem"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="chiboy"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="clems"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
+      <img
+        :src="agoluwa"
+        alt="social media tribute"
+        class="mx-auto rounded-md"
+      />
+      <img
+        :src="benita"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="cathy"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="cele"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="anselem"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="chiboy"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="clems"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
 
-        <img
-          :src="dona"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="edu"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="encee"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="eze1"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="eze2"
-          alt="social media tribute"
-          class="mx-auto rounded-md"
-        />
-        <img
-          :src="hoh"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="iyke"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="kachi"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="kings"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="monkey"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="nnaemeka"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="ojukwu"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="okeke"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="prez"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="saga"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="sunny"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="too"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="uche"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="ben"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="osy"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="prince"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="sam"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
+      <img
+        :src="dona"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="edu"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="encee"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="eze1"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img :src="eze2" alt="social media tribute" class="mx-auto rounded-md" />
+      <img
+        :src="hoh"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="iyke"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="kachi"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="kings"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="monkey"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="nnaemeka"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="ojukwu"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="okeke"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="prez"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="saga"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="sunny"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="too"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="uche"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="ben"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="osy"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="prince"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="sam"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
 
-        <img
-          :src="onyema"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="michael"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="mazi"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="kc"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="hon"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
-        <img
-          :src="chiboi"
-          alt="social media tribute"
-          class="mx-auto rounded-md mt-4"
-        />
+      <img
+        :src="onyema"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="michael"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="mazi"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="kc"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="hon"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
+      <img
+        :src="chiboi"
+        alt="social media tribute"
+        class="mx-auto rounded-md mt-4"
+      />
 
-        <Divider />
-      </div>
-      <div class="mt-10 flex justify-between">
-        <button
-          @click="$router.back()"
-          class="
-            shadow-lg
-            p-2
-            rounded-md
-            text-gray-200
-            tracking-wider
-            dark:text-gray-800
-            focus:outline-none
-            focus:shadow-outline
-          "
-        >
-          <div class="flex items-center justify-center">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              class="h-6 w-6"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M11 19l-7-7 7-7m8 14l-7-7 7-7"
-              />
-            </svg>
-            <p class="text-xs font-semibold tracking-widest">BACK</p>
-          </div>
-        </button>
-        <n-link
-          to="/photos"
-          class="bg-gray-400 shadow-lg border p-2 rounded-md"
-        >
-          <div class="flex items-center justify-center text-gray-800">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              class="h-6 w-6"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M13 5l7 7-7 7M5 5l7 7-7 7"
-              />
-            </svg>
-            <p class="tracking-widest text-xs font-semibold">PHOTOS</p>
-          </div>
-        </n-link>
-      </div>
+      <Divider />
     </div>
+    <div class="mt-10 flex justify-between">
+      <button
+        @click="$router.back()"
+        class="
+          shadow-lg
+          p-2
+          rounded-md
+          text-gray-200
+          tracking-wider
+          dark:text-gray-800
+          focus:outline-none
+          focus:shadow-outline
+        "
+      >
+        <div class="flex items-center justify-center">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-6 w-6"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M11 19l-7-7 7-7m8 14l-7-7 7-7"
+            />
+          </svg>
+          <p class="text-xs font-semibold tracking-widest">BACK</p>
+        </div>
+      </button>
+      <n-link to="/photos" class="bg-gray-400 shadow-lg border p-2 rounded-md">
+        <div class="flex items-center justify-center text-gray-800">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-6 w-6"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M13 5l7 7-7 7M5 5l7 7-7 7"
+            />
+          </svg>
+          <p class="tracking-widest text-xs font-semibold">PHOTOS</p>
+        </div>
+      </n-link>
+    </div>
+  </div>
   <!-- </div> -->
 </template>
 

@@ -28,8 +28,8 @@
           <div>
             <h1 class="font-bold tracking-wider text-lg sm:text-xl">BIRTH</h1>
             <p class="tracking-wider">
-              Felix Chukwu was born in Nomeh into the family of Late Elder Egbo
-              Nwachifu (Nwachifuogo) of Imeama Nomeh and Late Uzo Nwaeze
+              Felix Chukwu was born in Nomeh into the family of Late Elder Jona Egbo
+              Nwachifu Egbochifu (Nwachifuogo) of Imeama Nomeh and Late Uzo Nwaeze
               (Ochieka-nambo), of Obuegu Ugbawka, both of Nkanu East LGA of
               Enugu State. Felix was the 4th of 9 children from the polygamous
               family and the first male child of his father but the 2nd from his
@@ -86,7 +86,7 @@
             <p class="tracking-wider">
               Felix Chukwu joined the Nigerian Army in 1963. When the Nigerian
               Civil War started, he came back to defend his people. After the
-              war ended in January 1970, he was recalled back to the Nigerian
+              war ended in January 1970, he was re-admitted into the Nigerian
               Army. He got several recognitions and commendations for his
               neatness, etc. And due to his flame in sporting activities, he
               represented his unit in FESTAC ’77.
@@ -116,7 +116,7 @@
               Organization, CMO, and St. Anthony's Zone of the St. Patrick's
               Parish, Nomeh (both for more than a tenure). Felix was one time
               Chairman of Umuonuohaeze, Chairman Umuada-Ugbawka, Financial
-              Secretary Ukegeorge, etc. All through his leadership period, he
+              Secretary Ukegeorge, CYON Patron, pioneer leader Nomeh Vigilante, etc. All through his leadership period, he
               led with sincerity of purpose and compassion.
             </p>
           </div>
