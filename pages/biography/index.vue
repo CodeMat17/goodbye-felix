@@ -92,12 +92,13 @@
               represented his unit in FESTAC ’77.
             </p>
             <p class="mt-3">
-              As a military engineer, in May 1984, he was sent to the Nigerian
-              Army School of Military Engineering, Combat Engineering Division –
-              Markudi, to further his studies. He last served at the
-              headquarters of the Nigerian Armed Forces Resettlement Center,
-              NAFRC, Oshodi, in 1989 where he later disengaged (from the Army)
-              on own request.
+              As a military engineer, he was sent to the Nigerian Army School of
+              Military Engineering, Combat Engineering Division – Markudi, to
+              further his studies where he successfully completed the COMBAT
+              ENGINEERING BRIDGING COURSE from May to August, 1984. He last
+              served at the headquarters of the Nigerian Armed Forces
+              Resettlement Center, NAFRC, Oshodi, in 1989 where he later
+              disengaged (from the Army) on own request.
             </p>
           </div>
           <div class="mt-4">
@@ -223,7 +224,8 @@
             p-2
             rounded-md
             text-gray-200
-          focus:outline-none focus:shadow-outline
+            focus:outline-none
+            focus:shadow-outline
             dark:text-gray-800
           "
         >
@@ -249,7 +251,7 @@
           to="/tributes"
           class="bg-gray-200 shadow-lg border p-2 rounded-md"
         >
-          <div class="flex items-center justify-center  text-gray-800">
+          <div class="flex items-center justify-center text-gray-800">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="h-6 w-6"

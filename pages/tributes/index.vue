@@ -657,6 +657,43 @@
           </p>
         </div>
         <Divider />
+        <!-- Fr Orjiene's tribute -->
+        <div>
+          <h3 class="font-bold tracking-wider sm:text-xl">
+            TRIBUTE TO MY BROTHER, SON & FRIEND IN THE LORD.
+          </h3>
+          <div class="space-y-4 py-4">
+            <p class="tracking-wider">
+              Late Mr. Felix Chukwu, an all-round Soldier, I greet your spirit.
+              In 1999, when I came to St. Patrick's Parish, Nomeh Unateze, as
+              the 2nd Parish Priest, our relationship began, till 2005 when I
+              was transferred, due to your committed involvement in St.
+              Anthony's Zone and Parish Pastoral Council in particular and the
+              Parish life in general.
+            </p>
+            <p>
+              This close relationship, as brother, son and friend was as a result of your virtuous qualities. They include your desire for righteous attitude and conduct in every facet of human endeavour, love for excellence, courageous efforts and actions to achieve, succeed and triumph positively in issues and challenges. Others are: truthfulness, hardworking, gentle, quiet and calculative approach to encounters, alongside your military training disciplinary exhibitions. Your faith in Christ was solid, as the anchor to hope and love and the aforementioned qualities/virtues for humanity, in view of your salvation.
+            </p>
+            <p>
+              However, dear brother, son and friend, you had your weaknesses, especially losing your temper easily when virtues are worked against. This and your truthful stance in matters often brought you misunderstanding and trouble from the culprits. A point you suffered greatly at the last period of your life on earth, unto death, from some family members and beyond.
+            </p>
+            <p>
+               Felix,  your humaneness and generousity are not forgotten. Thus, these your attitudinal disposition endeared our relationship till death, even after leaving Nomeh Unateze Parish. 
+            </p>
+            <p>
+Felix, go in peace and hope of meeting God's mercy. Adieu!, my brother, son and friend, till we meet again in the Lord's presence by His grace.             </p>
+          </div>
+          <p>
+Rest in peace, as we hope in God to take care of your family, and others dependent on you when alive, through direct and indirect/human instruments.           </div>
+         
+         
+          <p class="tracking-wider text-center font-bold mt-6">
+            L. I. Orjiene (Rev. Fr.).
+          </p>
+           <p class="tracking-wider mt-2">St. John's Parish, Mgbowo</p>
+            <p class="tracking-wider mt-2">Catholic Diocese of Awgu Enugu State.</p>
+        </div>
+        <Divider />
         <!-- CMO's tribute -->
         <div>
           <h3 class="font-bold tracking-wider sm:text-xl">
@@ -1047,7 +1084,7 @@
           alt="social media tribute"
           class="mx-auto rounded-md mt-4"
         />
-         
+
         <img
           :src="onyema"
           alt="social media tribute"
@@ -1078,7 +1115,7 @@
           alt="social media tribute"
           class="mx-auto rounded-md mt-4"
         />
-       
+
         <Divider />
       </div>
       <div class="mt-10 flex justify-between">
@@ -1137,7 +1174,7 @@
         </n-link>
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </template>
 
 <script>
@@ -1266,7 +1303,7 @@ export default {
     const chiboi = $cloudinary.image.url("goodbye/sm/chiboi", {
       quality: "auto",
     });
-     const ben = $cloudinary.image.url("goodbye/sm/ben", {
+    const ben = $cloudinary.image.url("goodbye/sm/ben", {
       quality: "auto",
     });
     return {
@@ -1310,7 +1347,7 @@ export default {
       kc,
       hon,
       chiboi,
-      ben
+      ben,
     };
   },
 };

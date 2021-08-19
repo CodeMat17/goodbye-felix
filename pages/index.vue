@@ -128,7 +128,7 @@
             </p>
             <h2 class="font-bold text-lg pt-4">Let Us Pray:</h2>
             <p>
-              Lord we humbly ask for your mercy. Accept the soul of your servant
+              Lord we humbly ask for your mercy accept the soul of your servant
               MR FELIX CHUKWU, forgive the sins he committed through human
               frailty. Free him from the bonds of death and admit him into
               everlasting life. Through Christ our Lord. (Amen).
@@ -517,7 +517,7 @@
             <h2 class="font-bold text-lg pt-4">Ka annyirio aririo:</h2>
             <p>
               Onye nwe anyi, anyi ji umeala ario ebere Gi, were obioma nara
-              mkpuru obi nwa odibo Gi, FELIX CHUKW, gbaghara ya njo nile omere
+              mkpuru obi nwa odibo Gi, FELIX CHUKWU, gbaghara ya njo nile omere
               na adighi ike nke anu ahu. Topu ya agbu nile nke onwu ka ogafee na
               ndu ebighi ebighi site na Kristi Onyenweanyi (Amen).
             </p>
@@ -632,7 +632,7 @@
               Ihe ogugu nke a si n 'akwukwo mkpughe (14:13). Anukwara m olu si
               n'eluigwe na-ekwu si "dee nke a n'akwukwo: "ngozi ga-adiri ndi na
               anwu n'ime onyenwanyi site ugbu a diri gaba”. Ngozi diri ha
-              n'eziokwu, ka ha zuru ike n'azu”, O bu mmuo nso na-ekwu.
+              n'eziokwu, ka ha zuru ike, O bu mmuo nso na-ekwu.
             </p>
             <p>Okwu nke Oseburu uwa</p>
             <p>Ekele diri Chukwu</p>
@@ -678,7 +678,7 @@
             <p>
               Ka anyi were okwukwe na ntukwasi obi kpokue Chukwu Nna anyi, onye
               di ebebe, na onye si na onwu kunite nwa ya bu Jesu Kristi, ka onye
-              ndi di ndu nwuru-anwu udo na nzoputa.
+              ndi di ndu na ndi nwuru-anwu udo na nzoputa.
             </p>
             <h2 class="font-bold text-lg pt-4">
               Aziza: Meghe onu-uzo, onu-uzo nke eluigwe, Meghe onu-uzo, ka FELIX
@@ -705,10 +705,10 @@
             <p class="mt-4">
               5. Maka ndi gbakoro ebea ikpere nwanne anyi Mazi FELIX CHUKWU
               ekpere, k'anyi na echeta oge nile nke ndu anyi, na otu ubochi, na
-              anyi ga aza aziza maka echiche anyi ga, okwu onu any gaa, na
-              onumeanyi gaa. Aziza:
+              anyi ga aza aziza maka echiche anyi ga, okwu onu anyi gaa, na
+              onume anyi gaa. Aziza:
             </p>
-            <h2 class="font-bold text-lg pt-4">Ka Anyi ario:</h2>
+            <h2 class="font-bold text-lg pt-4">Ka anyi ario aririo:</h2>
             <p>
               O Dinwenu, mee ka aririo anyi ndia nyere nwa odibo gi bu FELIX
               CHUKWU, hapuru ahapu aka, ka azoputa ya na njo ya nile, bia ketara
@@ -871,7 +871,7 @@
             <p>
               O Chukwu anyi na-ario, ebe anyi na-akwa akwa ariri maka onwu nke
               nwanne anyi bu FELIX CHUKWU, ka anyi na echeta mgbe nile na ubochi
-              onwu nke anyi na-abiawanye nso. Nye anyi gratia Gi, iji kwado maka
+              onwu nke anyi na-abiawanye nso. Nye anyi gracia Gi, iji kwado maka
               ubochi ikpeazu ahu site n'idi na-ebi ndu di mma mgbe nile, ka onwu
               mberede ghara ikwudo anyi, kama ka anyi na eche nche oge nile ka o
               ga-abu mgbe obula I kporo anyi, k'anyi nwee ike iso banye n'anuri
@@ -883,7 +883,7 @@
               Ka Maria, Nne nke Chukwu, Nne dikasirii ebere, onye ntasi obi ndi
               na eru uju, hanye na aka nwa ya mkpuru obi nke hapugoro uwa nkea,
               ka esite n'ekpere ya, di ka Nne; nwe ike iru oso-oso n'ulo obibi
-              ahu, o na atu anya ya n'eluigwe, biri nay'a ebebe ebebe.
+              ahu, o na atu anya ya n'eluigwe, biri na ya ebebe ebebe.
             </p>
             <p class="mt-2">R. Amen</p>
           </div>
